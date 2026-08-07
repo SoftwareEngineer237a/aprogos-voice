@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>APROGOS VOICE - Accueil</title>
+  <meta name="description" content="Plateforme de formation, d'exercices et de bibliothèque musicale pour la chorale APROGOS VOICE.">
+  <meta name="theme-color" content="#071a3a">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body data-page="accueil" data-base="">
+  <a href="#main" class="skip-link">Aller au contenu</a>
+  <div id="siteHeader"></div>
+
+  <main id="main" tabindex="-1">
+    <section id="page-accueil" class="page-enter" aria-labelledby="home-title">
+      <div class="hero-plane flex items-center py-14 sm:py-20">
+        <div class="staff-field" aria-hidden="true">
+          <span class="staff-line"></span>
+          <span class="staff-line"></span>
+          <span class="staff-line"></span>
+          <span class="staff-line"></span>
+          <span class="staff-line"></span>
+          <span class="note-orb note-a">
+            <svg viewBox="0 0 48 48" fill="none"><path d="M17 34V10l20-4v24" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M17 34c0 3.3-3.1 6-7 6s-7-2.7-7-6 3.1-6 7-6 7 2.7 7 6ZM37 30c0 3.3-3.1 6-7 6s-7-2.7-7-6 3.1-6 7-6 7 2.7 7 6Z" fill="currentColor"/></svg>
+          </span>
+          <span class="note-orb note-b">
+            <svg viewBox="0 0 48 48" fill="none"><path d="M21 36V8h16" stroke="currentColor" stroke-width="4" stroke-linecap="round"/><path d="M21 36c0 3.3-3.1 6-7 6s-7-2.7-7-6 3.1-6 7-6 7 2.7 7 6Z" fill="currentColor"/></svg>
+          </span>
+          <span class="note-orb note-c">
+            <svg viewBox="0 0 48 48" fill="none"><path d="M24 7v27" stroke="currentColor" stroke-width="4" stroke-linecap="round"/><path d="M24 34c0 3.3-3.1 6-7 6s-7-2.7-7-6 3.1-6 7-6 7 2.7 7 6Z" fill="currentColor"/></svg>
+          </span>
+        </div>
+        <div class="app-shell grid gap-10 lg:grid-cols-[1fr_0.72fr] lg:items-center">
+          <div class="max-w-3xl reveal visible">
+            <p class="section-kicker mb-5">Plateforme chorale</p>
+            <h1 id="home-title" class="text-5xl font-black tracking-[-0.06em] text-slate-950 sm:text-6xl md:text-7xl lg:text-8xl">APROGOS VOICE</h1>
+            <p class="mt-5 text-2xl font-extrabold tracking-[-0.03em] text-blue-800 sm:text-3xl">Apprendre. Chanter. Progresser.</p>
+            <p class="mt-6 max-w-2xl text-lg leading-8 text-slate-700">La plateforme de formation et de bibliothèque musicale de la chorale APROGOS VOICE, conçue pour apprendre les notions musicales, pratiquer les exercices et retrouver les chants.</p>
+            <div class="mt-8 flex flex-col gap-3 sm:flex-row">
+              <a href="pages/formation.html" class="btn-primary">Commencer la formation</a>
+              <a href="pages/chants.html" class="btn-secondary">Explorer les chants</a>
+            </div>
+          </div>
+          <div class="hidden lg:block" aria-hidden="true">
+            <svg viewBox="0 0 520 520" class="h-auto w-full max-w-[520px]">
+              <defs>
+                <linearGradient id="choirGradient" x1="90" y1="40" x2="420" y2="470" gradientUnits="userSpaceOnUse">
+                  <stop stop-color="#0B2450"/>
+                  <stop offset="1" stop-color="#1D4ED8"/>
+                </linearGradient>
+              </defs>
+              <circle cx="272" cy="260" r="218" fill="#EAF2FF"/>
+              <path d="M106 332c42-36 94-54 156-54 66 0 119 18 158 54v70H106v-70Z" fill="url(#choirGradient)" opacity="0.94"/>
+              <circle cx="190" cy="219" r="46" fill="#0B2450"/>
+              <circle cx="270" cy="198" r="54" fill="#071A3A"/>
+              <circle cx="354" cy="221" r="45" fill="#123C83"/>
+              <path d="M156 156c46-36 94-55 143-57" stroke="#1D4ED8" stroke-width="10" stroke-linecap="round" opacity="0.42"/>
+              <path d="M326 119v77" stroke="#071A3A" stroke-width="12" stroke-linecap="round"/>
+              <path d="M326 119l61-13v72" stroke="#071A3A" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+              <ellipse cx="308" cy="196" rx="24" ry="17" transform="rotate(-18 308 196)" fill="#071A3A"/>
+              <ellipse cx="369" cy="178" rx="24" ry="17" transform="rotate(-18 369 178)" fill="#071A3A"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+
+      <section class="app-shell py-16 sm:py-24" aria-labelledby="home-formation-title">
+        <div class="max-w-2xl reveal">
+          <p class="section-kicker">Formation</p>
+          <h2 id="home-formation-title" class="mt-3 text-3xl font-black tracking-[-0.04em] text-slate-950 sm:text-5xl">Apprendre avec des repères simples.</h2>
+          <p class="mt-4 text-lg leading-8 text-slate-600">Les notions sont organisées par thèmes afin que chaque choriste sache quoi travailler avant, pendant et après la répétition.</p>
+        </div>
+        <div id="homeTrainingGrid" class="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-5"></div>
+      </section>
+
+      <section class="border-y border-slate-200 bg-white py-16 sm:py-24" aria-labelledby="home-library-title">
+        <div class="app-shell grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
+          <div class="reveal">
+            <p class="section-kicker">Bibliothèque de chants</p>
+            <h2 id="home-library-title" class="mt-3 text-3xl font-black tracking-[-0.04em] text-slate-950 sm:text-5xl">Retrouvez facilement les chants d'APROGOS VOICE.</h2>
+            <p class="mt-4 text-lg leading-8 text-slate-600">La plateforme permet de rechercher les chants, de consulter leurs informations et d'afficher les paroles lorsqu'elles sont disponibles.</p>
+            <a href="pages/chants.html" class="btn-primary mt-8">Voir les chants</a>
+          </div>
+          <div class="reveal rounded-[2rem] border border-slate-200 bg-slate-50 p-5 sm:p-7">
+            <div class="music-staff" aria-hidden="true">
+              <span class="staff-note" style="left: 17%; top: 58%;"></span>
+              <span class="staff-note" style="left: 34%; top: 47%;"></span>
+              <span class="staff-note" style="left: 51%; top: 37%;"></span>
+              <span class="staff-note" style="left: 68%; top: 27%;"></span>
+              <span class="absolute bottom-5 left-5 rounded-full bg-white px-4 py-2 text-sm font-black text-slate-900 shadow-sm">Recherche rapide</span>
+              <span class="absolute bottom-5 right-5 rounded-full bg-blue-700 px-4 py-2 text-sm font-black text-white shadow-sm">Paroles lisibles</span>
+            </div>
+          </div>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <div id="siteFooter"></div>
+
+  <script src="data/formation.js"></script>
+  <script src="js/utils/helpers.js"></script>
+  <script src="js/utils/dom.js"></script>
+  <script src="js/navigation/navigation.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

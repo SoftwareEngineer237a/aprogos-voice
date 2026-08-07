@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>APROGOS VOICE - Formation</title>
+  <meta name="description" content="Cours de solfège, technique vocale, écoute, justesse, harmonie et polyphonie pour APROGOS VOICE.">
+  <meta name="theme-color" content="#071a3a">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <link rel="stylesheet" href="../css/main.css">
+</head>
+<body data-page="formation" data-base="../">
+  <a href="#main" class="skip-link">Aller au contenu</a>
+  <div id="siteHeader"></div>
+
+  <main id="main" tabindex="-1">
+    <section id="page-formation" class="page-enter" aria-labelledby="formation-title">
+      <div class="app-shell py-12 sm:py-16">
+        <div class="max-w-3xl reveal visible">
+          <p class="section-kicker">Formation</p>
+          <h1 id="formation-title" class="mt-3 text-4xl font-black tracking-[-0.05em] text-slate-950 sm:text-6xl">Cours de la chorale</h1>
+          <p class="mt-5 text-lg leading-8 text-slate-600">Choisissez un module, ouvrez une leçon et avancez avec une structure claire : définition, explication, exemple, conseil pratique et points à retenir.</p>
+        </div>
+
+        <div class="mt-10 grid gap-6 lg:grid-cols-[390px_1fr] lg:items-start">
+          <aside class="soft-card rounded-[1.7rem] p-4 reveal" aria-label="Modules de formation">
+            <div id="formationModules" class="space-y-3"></div>
+          </aside>
+          <article id="lessonViewer" class="soft-card min-h-[34rem] rounded-[1.7rem] p-5 sm:p-8 reveal" aria-live="polite"></article>
+        </div>
+
+        <section class="mt-14 rounded-[2rem] bg-slate-950 p-5 text-white sm:p-8 lg:p-10 reveal" aria-labelledby="method-title">
+          <div class="max-w-3xl">
+            <p class="section-kicker text-blue-200">Méthodologie</p>
+            <h2 id="method-title" class="mt-3 text-3xl font-black tracking-[-0.04em] sm:text-5xl">Méthode de travail de la chorale</h2>
+            <p class="mt-4 text-base leading-8 text-slate-300">Ces repères organisent le travail en répétition. Ils ne sont pas présentés comme une règle universelle, mais comme une méthode pratique pour progresser ensemble.</p>
+          </div>
+          <div class="mt-8 grid gap-4 lg:grid-cols-2">
+            <div class="rounded-[1.4rem] border border-white/10 bg-white/6 p-5">
+              <h3 class="text-xl font-black">Préparation d'une répétition</h3>
+              <ol class="mt-4 space-y-3 text-slate-200">
+                <li class="flex gap-3"><span class="font-black text-blue-200">1.</span><span>Installer une posture stable.</span></li>
+                <li class="flex gap-3"><span class="font-black text-blue-200">2.</span><span>Préparer la respiration.</span></li>
+                <li class="flex gap-3"><span class="font-black text-blue-200">3.</span><span>Faire un échauffement progressif.</span></li>
+                <li class="flex gap-3"><span class="font-black text-blue-200">4.</span><span>Pratiquer des vocalises courtes.</span></li>
+                <li class="flex gap-3"><span class="font-black text-blue-200">5.</span><span>Entrer dans le chant avec écoute et précision.</span></li>
+              </ol>
+            </div>
+            <div class="rounded-[1.4rem] border border-white/10 bg-white/6 p-5">
+              <h3 class="text-xl font-black">Règle du 50/50</h3>
+              <p class="mt-4 leading-8 text-slate-200">La chorale peut consacrer environ 30 minutes à la théorie ou à la technique, puis environ 30 minutes au chant et à l'apprentissage. L'objectif est d'intégrer la formation directement dans la pratique.</p>
+            </div>
+            <div class="rounded-[1.4rem] border border-white/10 bg-white/6 p-5">
+              <h3 class="text-xl font-black">Solfège relatif et gestes</h3>
+              <p class="mt-4 leading-8 text-slate-200">Les gestes peuvent aider à représenter les hauteurs. Ils donnent un repère visuel pour monter, descendre et stabiliser les notes chantées.</p>
+            </div>
+            <div class="rounded-[1.4rem] border border-white/10 bg-white/6 p-5">
+              <h3 class="text-xl font-black">Apprentissage par imitation</h3>
+              <p class="mt-4 leading-8 text-slate-200">Le chef chante, les choristes répètent, puis la représentation écrite est découverte progressivement. Cette méthode relie l'oreille, la voix et la lecture musicale.</p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <div id="siteFooter"></div>
+
+  <script src="../data/formation.js"></script>
+  <script src="../js/utils/helpers.js"></script>
+  <script src="../js/utils/dom.js"></script>
+  <script src="../js/navigation/navigation.js"></script>
+  <script src="../js/formation/lessons.js"></script>
+  <script src="../js/formation/modules.js"></script>
+  <script src="../js/formation/formation.js"></script>
+  <script src="../js/main.js"></script>
+</body>
+</html>

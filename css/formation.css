@@ -1,0 +1,42 @@
+.lesson-button {
+  transition: background 160ms ease, color 160ms ease, border-color 160ms ease, transform 160ms ease;
+}
+
+.lesson-button.active {
+  color: white;
+  background: var(--navy);
+  border-color: var(--navy);
+}
+
+.lesson-media { display: grid; gap: 1rem; }
+.lesson-image-grid { display: grid; gap: 0.75rem; }
+
+.lesson-image-card {
+  overflow: hidden;
+  border-radius: 1.2rem;
+  border: 1px solid var(--line);
+  background: #f8fbff;
+}
+
+.lesson-image-card img {
+  width: 100%;
+  display: block;
+}
+
+.lesson-image-card figcaption {
+  padding: 0.75rem 1rem;
+  color: #475569;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.pedagogy-diagram {
+  border-radius: 1.3rem;
+  border: 1px solid rgba(219, 229, 243, 0.92);
+  background: #ffffff;
+  padding: 1rem;
+}
+
+.illustration-breathing .lesson-image-card img { animation: breathingImage 3.4s ease-in-out infinite; }
+.illustration-notes .lesson-image-card img { animation: gentleRise 4.2s ease-in-out infinite; }
+.method-card { background: rgba(255, 255, 255, 0.06); }

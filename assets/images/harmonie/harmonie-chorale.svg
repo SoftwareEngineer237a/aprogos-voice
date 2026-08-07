@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="76" y="64" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Harmonie chorale</text>
+  <path d="M90 290C170 170 242 322 318 220s136-42 222-10" fill="none" stroke="#071a3a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M90 230C168 126 246 252 326 168s136-28 214-2" fill="none" stroke="#1d4ed8" stroke-width="10" stroke-linecap="round" opacity="0.85"/>
+  <path d="M90 330c94-76 168 20 244-46s138-16 206 24" fill="none" stroke="#93c5fd" stroke-width="10" stroke-linecap="round"/>
+  <text x="116" y="366" fill="#64748b" font-family="Inter, Arial" font-size="22" font-weight="800">Des lignes différentes, un seul ensemble.</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="76" y="64" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Intervalles</text>
+  <g font-family="Inter, Arial" font-size="22" font-weight="900">
+    <circle cx="120" cy="140" r="18" fill="#071a3a"/><line x1="138" y1="140" x2="210" y2="140" stroke="#bfdbfe" stroke-width="10" stroke-linecap="round"/><circle cx="228" cy="140" r="18" fill="#1d4ed8"/><text x="270" y="148" fill="#0b2450">Seconde : Do - Ré</text>
+    <circle cx="120" cy="220" r="18" fill="#071a3a"/><line x1="138" y1="220" x2="270" y2="220" stroke="#93c5fd" stroke-width="10" stroke-linecap="round"/><circle cx="288" cy="220" r="18" fill="#1d4ed8"/><text x="330" y="228" fill="#0b2450">Tierce : Do - Mi</text>
+    <circle cx="120" cy="300" r="18" fill="#071a3a"/><line x1="138" y1="300" x2="350" y2="300" stroke="#1d4ed8" stroke-width="10" stroke-linecap="round"/><circle cx="368" cy="300" r="18" fill="#1d4ed8"/><text x="410" y="308" fill="#0b2450">Quinte : Do - Sol</text>
+  </g>
+</svg>

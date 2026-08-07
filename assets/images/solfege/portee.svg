@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="76" y="62" fill="#0b2450" font-family="Inter, Arial" font-size="28" font-weight="900">Portée : 5 lignes et 4 interlignes</text>
+  <g stroke="#071a3a" stroke-width="4" stroke-linecap="round">
+    <line x1="96" y1="120" x2="552" y2="120"/>
+    <line x1="96" y1="162" x2="552" y2="162"/>
+    <line x1="96" y1="204" x2="552" y2="204"/>
+    <line x1="96" y1="246" x2="552" y2="246"/>
+    <line x1="96" y1="288" x2="552" y2="288"/>
+  </g>
+  <g fill="#1d4ed8" font-family="Inter, Arial" font-size="20" font-weight="900">
+    <text x="64" y="294">1</text><text x="64" y="252">2</text><text x="64" y="210">3</text><text x="64" y="168">4</text><text x="64" y="126">5</text>
+  </g>
+  <g fill="#64748b" font-family="Inter, Arial" font-size="17" font-weight="800">
+    <text x="560" y="270">Interligne 1</text><text x="560" y="228">Interligne 2</text><text x="560" y="186">Interligne 3</text><text x="560" y="144">Interligne 4</text>
+  </g>
+  <path d="M150 342h170" stroke="#1d4ed8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M300 326l22 16-22 16" fill="none" stroke="#1d4ed8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="150" y="386" fill="#0b2450" font-family="Inter, Arial" font-size="20" font-weight="800">On compte de bas en haut</text>
+</svg>

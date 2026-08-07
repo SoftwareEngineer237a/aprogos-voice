@@ -1,0 +1,17 @@
+.song-row {
+  transition: background 160ms ease, color 160ms ease, border-color 160ms ease, transform 160ms ease;
+}
+
+.song-row:hover,
+.song-row.active {
+  border-color: rgba(29, 78, 216, 0.34);
+  background: #f8fbff;
+}
+
+.song-row.active { box-shadow: inset 3px 0 0 var(--blue); }
+
+.lyric-box {
+  white-space: pre-wrap;
+  line-height: 1.85;
+  overflow-wrap: anywhere;
+}

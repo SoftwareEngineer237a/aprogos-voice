@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>APROGOS VOICE - Exercices</title>
+  <meta name="description" content="Fiches pratiques de solfège, voix, écoute, technique et harmonie pour les répétitions d'APROGOS VOICE.">
+  <meta name="theme-color" content="#071a3a">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <link rel="stylesheet" href="../css/main.css">
+</head>
+<body data-page="exercices" data-base="../">
+  <a href="#main" class="skip-link">Aller au contenu</a>
+  <div id="siteHeader"></div>
+
+  <main id="main" tabindex="-1">
+    <section id="page-exercices" class="page-enter" aria-labelledby="exercises-title">
+      <div class="app-shell py-12 sm:py-16">
+        <div class="max-w-3xl reveal visible">
+          <p class="section-kicker">Exercices</p>
+          <h1 id="exercises-title" class="mt-3 text-4xl font-black tracking-[-0.05em] text-slate-950 sm:text-6xl">Fiches pratiques</h1>
+          <p class="mt-5 text-lg leading-8 text-slate-600">Choisissez rapidement une zone de travail. Chaque fiche est pensée pour être utilisée pendant les répétitions, sans jeu complexe ni distraction.</p>
+        </div>
+        <div class="mt-8 overflow-x-auto pb-2" aria-label="Catégories d'exercices">
+          <div id="exerciseTabs" class="flex min-w-max gap-2"></div>
+        </div>
+        <div id="exerciseGrid" class="mt-8 grid gap-4 md:grid-cols-2 xl:grid-cols-3" aria-live="polite"></div>
+      </div>
+    </section>
+  </main>
+
+  <div id="siteFooter"></div>
+
+  <script src="../data/exercices.js"></script>
+  <script src="../js/utils/helpers.js"></script>
+  <script src="../js/utils/dom.js"></script>
+  <script src="../js/navigation/navigation.js"></script>
+  <script src="../js/exercices/exercise-data.js"></script>
+  <script src="../js/exercices/exercices.js"></script>
+  <script src="../js/main.js"></script>
+</body>
+</html>

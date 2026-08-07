@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>APROGOS VOICE - Chants</title>
+  <meta name="description" content="Bibliothèque musicale APROGOS VOICE avec recherche instantanée, filtres et paroles disponibles.">
+  <meta name="theme-color" content="#071a3a">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <link rel="stylesheet" href="../css/main.css">
+</head>
+<body data-page="chants" data-base="../">
+  <a href="#main" class="skip-link">Aller au contenu</a>
+  <div id="siteHeader"></div>
+
+  <main id="main" tabindex="-1">
+    <section id="page-chants" class="page-enter" aria-labelledby="songs-title">
+      <div class="app-shell py-12 sm:py-16">
+        <div class="max-w-3xl reveal visible">
+          <p class="section-kicker">Chants</p>
+          <h1 id="songs-title" class="mt-3 text-4xl font-black tracking-[-0.05em] text-slate-950 sm:text-6xl">Bibliothèque musicale</h1>
+          <p class="mt-5 text-lg leading-8 text-slate-600">Recherchez un chant par titre, auteur ou langue, puis ouvrez sa fiche pour consulter les informations et les paroles disponibles.</p>
+        </div>
+
+        <div class="mt-8 rounded-[1.5rem] border border-blue-100 bg-blue-50 p-4 text-sm leading-7 text-blue-950 reveal">
+          Les chants affichés ici sont des données de démonstration clairement identifiées. Remplacez-les par les vrais chants d'APROGOS VOICE avant la mise en production.
+        </div>
+
+        <div class="mt-6 grid gap-4 rounded-[1.7rem] border border-slate-200 bg-white p-4 shadow-sm sm:p-5 lg:grid-cols-[1fr_180px_180px_180px_auto] lg:items-end reveal">
+          <label class="block">
+            <span class="mb-2 block text-sm font-black text-slate-800">Recherche instantanée</span>
+            <input id="songSearch" type="search" placeholder="Rechercher par titre, auteur ou langue" class="h-12 w-full rounded-2xl border border-slate-200 bg-slate-50 px-4 text-base outline-none transition focus:border-blue-500 focus:bg-white" autocomplete="off">
+          </label>
+          <label class="block">
+            <span class="mb-2 block text-sm font-black text-slate-800">Langue</span>
+            <select id="languageFilter" class="h-12 w-full rounded-2xl border border-slate-200 bg-slate-50 px-3 text-base outline-none transition focus:border-blue-500 focus:bg-white"></select>
+          </label>
+          <label class="block">
+            <span class="mb-2 block text-sm font-black text-slate-800">Auteur</span>
+            <select id="authorFilter" class="h-12 w-full rounded-2xl border border-slate-200 bg-slate-50 px-3 text-base outline-none transition focus:border-blue-500 focus:bg-white"></select>
+          </label>
+          <label class="block">
+            <span class="mb-2 block text-sm font-black text-slate-800">Année</span>
+            <select id="yearFilter" class="h-12 w-full rounded-2xl border border-slate-200 bg-slate-50 px-3 text-base outline-none transition focus:border-blue-500 focus:bg-white"></select>
+          </label>
+          <button id="resetSongFilters" type="button" class="btn-secondary h-12 px-5">Réinitialiser</button>
+        </div>
+
+        <div class="mt-8 grid gap-6 lg:grid-cols-[minmax(0,0.96fr)_minmax(360px,0.74fr)] lg:items-start">
+          <section class="rounded-[1.7rem] border border-slate-200 bg-white p-3 shadow-sm sm:p-4 reveal" aria-labelledby="song-results-title">
+            <div class="flex items-center justify-between gap-4 px-2 pb-3">
+              <h2 id="song-results-title" class="text-lg font-black text-slate-950">Résultats</h2>
+              <p id="songCount" class="text-sm font-bold text-slate-500"></p>
+            </div>
+            <div id="songList" class="grid gap-2" aria-live="polite"></div>
+            <p id="emptySongs" class="hidden rounded-2xl bg-slate-50 p-6 text-center font-bold text-slate-500">Aucun chant trouvé.</p>
+          </section>
+
+          <aside id="songDetail" class="rounded-[1.7rem] border border-slate-200 bg-white p-5 shadow-sm sm:p-7 lg:sticky lg:top-28 reveal" aria-live="polite" aria-label="Détail du chant"></aside>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="siteFooter"></div>
+
+  <script src="../data/chants.js"></script>
+  <script src="../js/utils/helpers.js"></script>
+  <script src="../js/utils/dom.js"></script>
+  <script src="../js/navigation/navigation.js"></script>
+  <script src="../js/chants/search.js"></script>
+  <script src="../js/chants/filters.js"></script>
+  <script src="../js/chants/chants.js"></script>
+  <script src="../js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="72" y="64" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Échauffement vocal</text>
+  <rect x="82" y="112" width="140" height="88" rx="24" fill="#ffffff" stroke="#dbe5f3"/>
+  <text x="152" y="166" text-anchor="middle" fill="#071a3a" font-family="Inter, Arial" font-size="28" font-weight="900">Mmm</text>
+  <rect x="250" y="112" width="310" height="88" rx="24" fill="#ffffff" stroke="#dbe5f3"/>
+  <path d="M282 158C332 112 370 206 420 158s82-46 112 0" fill="none" stroke="#1d4ed8" stroke-width="8" stroke-linecap="round"/>
+  <text x="405" y="236" text-anchor="middle" fill="#64748b" font-family="Inter, Arial" font-size="20" font-weight="800">Sirènes vocales</text>
+  <g fill="#071a3a" font-family="Inter, Arial" font-size="25" font-weight="900" text-anchor="middle">
+    <circle cx="124" cy="306" r="34" fill="#dbeafe"/><text x="124" y="315">Ma</text>
+    <circle cx="224" cy="286" r="34" fill="#bfdbfe"/><text x="224" y="295">Mé</text>
+    <circle cx="324" cy="266" r="34" fill="#93c5fd"/><text x="324" y="275">Mi</text>
+    <circle cx="424" cy="286" r="34" fill="#bfdbfe"/><text x="424" y="295">Mo</text>
+    <circle cx="524" cy="306" r="34" fill="#dbeafe"/><text x="524" y="315">Mu</text>
+  </g>
+</svg>

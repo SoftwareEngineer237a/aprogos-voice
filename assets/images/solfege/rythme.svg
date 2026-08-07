@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="76" y="70" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Pulsation régulière</text>
+  <line x1="100" y1="215" x2="540" y2="215" stroke="#dbe5f3" stroke-width="12" stroke-linecap="round"/>
+  <g fill="#1d4ed8" font-family="Inter, Arial" font-size="28" font-weight="900" text-anchor="middle">
+    <circle cx="120" cy="215" r="30"/><text x="120" y="300">1</text>
+    <circle cx="253" cy="215" r="30"/><text x="253" y="300">2</text>
+    <circle cx="386" cy="215" r="30"/><text x="386" y="300">3</text>
+    <circle cx="520" cy="215" r="30"/><text x="520" y="300">4</text>
+  </g>
+  <path d="M98 126h444" stroke="#071a3a" stroke-width="5" stroke-dasharray="10 18" stroke-linecap="round"/>
+  <text x="78" y="360" fill="#64748b" font-family="Inter, Arial" font-size="22" font-weight="800">Chaque battement garde la même distance.</text>
+</svg>

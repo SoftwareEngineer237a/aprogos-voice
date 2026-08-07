@@ -1,0 +1,32 @@
+.skip-link {
+  position: fixed;
+  left: 1rem;
+  top: -4rem;
+  z-index: 80;
+  border-radius: 999px;
+  background: var(--navy);
+  color: white;
+  padding: 0.75rem 1rem;
+  transition: top 160ms ease;
+}
+
+.skip-link:focus { top: 1rem; }
+
+.app-shell {
+  width: min(100% - 2rem, 1180px);
+  margin-inline: auto;
+}
+
+.page-enter { animation: routeIn 360ms ease both; }
+
+.section-kicker {
+  color: var(--blue);
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+}
+
+@media (min-width: 768px) {
+  .app-shell { width: min(100% - 3rem, 1180px); }
+}

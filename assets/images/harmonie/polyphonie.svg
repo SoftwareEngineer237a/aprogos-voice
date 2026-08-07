@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="76" y="64" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Homorythmie et polyphonie</text>
+  <rect x="80" y="112" width="220" height="220" rx="28" fill="#ffffff" stroke="#dbe5f3"/>
+  <text x="112" y="154" fill="#0b2450" font-family="Inter, Arial" font-size="22" font-weight="900">Homorythmie</text>
+  <g fill="#1d4ed8"><rect x="112" y="190" width="52" height="16" rx="8"/><rect x="180" y="190" width="52" height="16" rx="8"/><rect x="112" y="230" width="52" height="16" rx="8"/><rect x="180" y="230" width="52" height="16" rx="8"/><rect x="112" y="270" width="52" height="16" rx="8"/><rect x="180" y="270" width="52" height="16" rx="8"/></g>
+  <rect x="340" y="112" width="220" height="220" rx="28" fill="#ffffff" stroke="#dbe5f3"/>
+  <text x="376" y="154" fill="#0b2450" font-family="Inter, Arial" font-size="22" font-weight="900">Polyphonie</text>
+  <g fill="#071a3a"><rect x="376" y="192" width="130" height="16" rx="8"/><rect x="402" y="232" width="116" height="16" rx="8" fill="#1d4ed8"/><rect x="430" y="272" width="92" height="16" rx="8" fill="#93c5fd"/></g>
+</svg>

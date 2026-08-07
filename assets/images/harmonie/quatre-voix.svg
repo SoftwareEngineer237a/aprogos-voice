@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="76" y="64" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Chant à quatre voix</text>
+  <g font-family="Inter, Arial" font-size="20" font-weight="900">
+    <circle cx="112" cy="132" r="24" fill="#071a3a"/><text x="105" y="139" fill="#fff">S</text><rect x="154" y="118" width="376" height="28" rx="14" fill="#1e3a8a"/>
+    <circle cx="112" cy="200" r="24" fill="#071a3a"/><text x="104" y="207" fill="#fff">A</text><rect x="154" y="186" width="328" height="28" rx="14" fill="#2563eb"/>
+    <circle cx="112" cy="268" r="24" fill="#071a3a"/><text x="106" y="275" fill="#fff">T</text><rect x="154" y="254" width="282" height="28" rx="14" fill="#60a5fa"/>
+    <circle cx="112" cy="336" r="24" fill="#071a3a"/><text x="105" y="343" fill="#fff">B</text><rect x="154" y="322" width="238" height="28" rx="14" fill="#bfdbfe"/>
+  </g>
+</svg>

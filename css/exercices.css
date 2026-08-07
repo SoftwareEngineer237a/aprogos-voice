@@ -1,0 +1,22 @@
+.exercise-tab {
+  transition: background 160ms ease, color 160ms ease, border-color 160ms ease, transform 160ms ease;
+}
+
+.exercise-tab.active {
+  color: white;
+  background: var(--navy);
+  border-color: var(--navy);
+}
+
+.exercise-illustration {
+  margin-top: 1.25rem;
+  overflow: hidden;
+  border-radius: 1.2rem;
+  border: 1px solid var(--line);
+  background: #f8fbff;
+}
+
+.exercise-illustration img {
+  width: 100%;
+  display: block;
+}

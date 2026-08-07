@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="76" y="64" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Pupitres</text>
+  <g font-family="Inter, Arial" font-size="26" font-weight="900" text-anchor="middle">
+    <rect x="84" y="114" width="210" height="96" rx="26" fill="#dbeafe"/><text x="189" y="172" fill="#0b2450">Soprano</text>
+    <rect x="346" y="114" width="210" height="96" rx="26" fill="#bfdbfe"/><text x="451" y="172" fill="#0b2450">Alto</text>
+    <rect x="84" y="246" width="210" height="96" rx="26" fill="#93c5fd"/><text x="189" y="304" fill="#0b2450">Ténor</text>
+    <rect x="346" y="246" width="210" height="96" rx="26" fill="#60a5fa"/><text x="451" y="304" fill="#ffffff">Basse</text>
+  </g>
+</svg>

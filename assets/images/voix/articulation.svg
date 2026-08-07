@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="72" y="64" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Articulation</text>
+  <ellipse cx="320" cy="178" rx="94" ry="58" fill="#dbeafe" stroke="#1d4ed8" stroke-width="7"/>
+  <ellipse cx="320" cy="190" rx="42" ry="22" fill="#071a3a"/>
+  <path d="M228 288h184" stroke="#071a3a" stroke-width="8" stroke-linecap="round"/>
+  <g font-family="Inter, Arial" font-size="24" font-weight="900" text-anchor="middle">
+    <text x="320" y="296" fill="#0b2450">Ma - Mé - Mi - Mo - Mu</text>
+    <text x="320" y="340" fill="#1d4ed8">Ba - Da - Bi - Bou</text>
+  </g>
+  <text x="118" y="382" fill="#64748b" font-family="Inter, Arial" font-size="20" font-weight="800">Des syllabes claires avec une mâchoire souple.</text>
+</svg>

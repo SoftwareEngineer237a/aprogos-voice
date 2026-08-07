@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="72" y="66" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Les silences</text>
+  <g font-family="Inter, Arial" font-weight="900">
+    <rect x="84" y="112" width="472" height="68" rx="22" fill="#ffffff" stroke="#dbe5f3"/>
+    <text x="120" y="156" fill="#071a3a" font-size="40">▰</text><text x="198" y="153" fill="#0b2450" font-size="24">Pause</text><text x="450" y="153" fill="#64748b" font-size="22">4 temps</text>
+    <rect x="84" y="200" width="472" height="68" rx="22" fill="#ffffff" stroke="#dbe5f3"/>
+    <text x="120" y="244" fill="#071a3a" font-size="40">▱</text><text x="198" y="241" fill="#0b2450" font-size="24">Demi-pause</text><text x="450" y="241" fill="#64748b" font-size="22">2 temps</text>
+    <rect x="84" y="288" width="472" height="68" rx="22" fill="#ffffff" stroke="#dbe5f3"/>
+    <text x="120" y="332" fill="#071a3a" font-size="40">𝄽</text><text x="198" y="329" fill="#0b2450" font-size="24">Soupir</text><text x="450" y="329" fill="#64748b" font-size="22">1 temps</text>
+  </g>
+</svg>

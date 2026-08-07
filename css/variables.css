@@ -1,0 +1,34 @@
+:root {
+  --navy: #071a3a;
+  --navy-2: #0b2450;
+  --blue: #1d4ed8;
+  --sky: #eaf2ff;
+  --ink: #111827;
+  --muted: #64748b;
+  --line: #dbe5f3;
+  --paper: #f7f9fc;
+  --radius-lg: 1.7rem;
+  --shadow-soft: 0 18px 60px rgba(7, 26, 58, 0.06);
+}
+
+* { box-sizing: border-box; }
+
+html { font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+
+body {
+  min-width: 320px;
+  color: var(--ink);
+  background:
+    radial-gradient(circle at 15% 0%, rgba(29, 78, 216, 0.08), transparent 34rem),
+    linear-gradient(180deg, #ffffff 0%, #f7f9fc 62%, #ffffff 100%);
+  overflow-x: hidden;
+}
+
+img, svg { max-width: 100%; }
+img { height: auto; }
+
+:focus-visible {
+  outline: 3px solid rgba(29, 78, 216, 0.42);
+  outline-offset: 3px;
+  border-radius: 0.75rem;
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="72" y="62" fill="#0b2450" font-family="Inter, Arial" font-size="28" font-weight="900">Valeurs des notes</text>
+  <g font-family="Inter, Arial" font-weight="900" text-anchor="middle">
+    <rect x="70" y="112" width="112" height="190" rx="24" fill="#ffffff" stroke="#dbe5f3"/>
+    <text x="126" y="190" fill="#071a3a" font-size="54">𝅝</text><text x="126" y="238" fill="#0b2450" font-size="20">Ronde</text><text x="126" y="266" fill="#64748b" font-size="17">4 temps</text>
+    <rect x="208" y="112" width="112" height="190" rx="24" fill="#ffffff" stroke="#dbe5f3"/>
+    <text x="264" y="190" fill="#071a3a" font-size="54">𝅗𝅥</text><text x="264" y="238" fill="#0b2450" font-size="20">Blanche</text><text x="264" y="266" fill="#64748b" font-size="17">2 temps</text>
+    <rect x="346" y="112" width="112" height="190" rx="24" fill="#ffffff" stroke="#dbe5f3"/>
+    <text x="402" y="190" fill="#071a3a" font-size="54">♩</text><text x="402" y="238" fill="#0b2450" font-size="20">Noire</text><text x="402" y="266" fill="#64748b" font-size="17">1 temps</text>
+    <rect x="484" y="112" width="112" height="190" rx="24" fill="#ffffff" stroke="#dbe5f3"/>
+    <text x="540" y="190" fill="#071a3a" font-size="54">♪</text><text x="540" y="238" fill="#0b2450" font-size="20">Croche</text><text x="540" y="266" fill="#64748b" font-size="17">1/2 temps</text>
+  </g>
+</svg>

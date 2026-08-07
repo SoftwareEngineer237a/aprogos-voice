@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="70" y="64" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Respiration abdominale</text>
+  <circle cx="224" cy="138" r="36" fill="#071a3a"/>
+  <path d="M180 190c22-24 66-24 88 0v106c-20 24-68 24-88 0V190Z" fill="#0b2450"/>
+  <ellipse cx="224" cy="282" rx="68" ry="44" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="6"/>
+  <path d="M366 138h120" stroke="#1d4ed8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M464 114l34 24-34 24" fill="none" stroke="#1d4ed8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="354" y="102" fill="#0b2450" font-family="Inter, Arial" font-size="22" font-weight="900">Inspirer</text>
+  <path d="M486 270H366" stroke="#071a3a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M388 246l-34 24 34 24" fill="none" stroke="#071a3a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="354" y="336" fill="#0b2450" font-family="Inter, Arial" font-size="22" font-weight="900">Expirer sur Sssss</text>
+</svg>

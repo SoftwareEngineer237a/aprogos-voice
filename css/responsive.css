@@ -1,0 +1,10 @@
+@media (max-width: 767px) {
+  .hero-plane { min-height: auto; }
+  .staff-field { right: -12rem; top: 16%; opacity: 0.64; }
+  .nav-link::after { display: none; }
+  .lesson-image-grid { grid-template-columns: 1fr; }
+}
+
+@media (min-width: 640px) {
+  .lesson-image-grid.has-multiple { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}

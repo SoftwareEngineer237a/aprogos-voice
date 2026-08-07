@@ -1,0 +1,69 @@
+.hero-plane {
+  position: relative;
+  min-height: calc(100svh - 76px);
+  overflow: hidden;
+  isolation: isolate;
+  background:
+    linear-gradient(90deg, rgba(255,255,255,0.96) 0%, rgba(255,255,255,0.86) 48%, rgba(234,242,255,0.74) 100%),
+    radial-gradient(circle at 78% 24%, rgba(29, 78, 216, 0.22), transparent 19rem),
+    linear-gradient(135deg, #ffffff 0%, #eef5ff 100%);
+}
+
+.hero-plane::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -2;
+  background-image:
+    linear-gradient(rgba(7, 26, 58, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(7, 26, 58, 0.04) 1px, transparent 1px);
+  background-size: 54px 54px;
+  mask-image: linear-gradient(90deg, transparent, #000 24%, #000 88%);
+}
+
+.staff-field {
+  position: absolute;
+  right: max(-6rem, -9vw);
+  top: 8%;
+  width: min(48rem, 94vw);
+  height: min(34rem, 68vw);
+  z-index: -1;
+  opacity: 0.96;
+  pointer-events: none;
+}
+
+.staff-line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 2px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, transparent, rgba(7, 26, 58, 0.18), transparent);
+  animation: breatheLine 5.5s ease-in-out infinite;
+}
+
+.staff-line:nth-child(1) { top: 22%; animation-delay: 0ms; }
+.staff-line:nth-child(2) { top: 31%; animation-delay: 130ms; }
+.staff-line:nth-child(3) { top: 40%; animation-delay: 260ms; }
+.staff-line:nth-child(4) { top: 49%; animation-delay: 390ms; }
+.staff-line:nth-child(5) { top: 58%; animation-delay: 520ms; }
+
+.note-orb {
+  position: absolute;
+  display: grid;
+  place-items: center;
+  width: clamp(3.2rem, 8vw, 5.7rem);
+  height: clamp(3.2rem, 8vw, 5.7rem);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.78);
+  color: var(--navy);
+  border: 1px solid rgba(29, 78, 216, 0.15);
+  box-shadow: 0 28px 70px rgba(7, 26, 58, 0.14);
+  backdrop-filter: blur(16px);
+  animation: floatNote 6.4s ease-in-out infinite;
+}
+
+.note-orb svg { width: 52%; height: 52%; }
+.note-a { right: 12%; top: 13%; animation-delay: -1.2s; }
+.note-b { right: 42%; top: 46%; width: clamp(2.8rem, 6vw, 4.5rem); height: clamp(2.8rem, 6vw, 4.5rem); animation-delay: -2.4s; }
+.note-c { right: 4%; top: 64%; width: clamp(2.65rem, 5vw, 4rem); height: clamp(2.65rem, 5vw, 4rem); animation-delay: -3.5s; }

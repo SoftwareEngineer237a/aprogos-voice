@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <circle cx="506" cy="100" r="70" fill="#dbeafe"/>
+  <path d="M88 288h464" stroke="#dbe5f3" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="140" cy="288" r="18" fill="#071a3a"/>
+  <circle cx="255" cy="288" r="18" fill="#1d4ed8"/>
+  <circle cx="370" cy="288" r="18" fill="#071a3a"/>
+  <circle cx="500" cy="288" r="18" fill="#1d4ed8"/>
+  <path d="M170 126v132" stroke="#071a3a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M170 126l118-26v132" stroke="#071a3a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="142" cy="259" rx="34" ry="24" transform="rotate(-16 142 259)" fill="#071a3a"/>
+  <ellipse cx="260" cy="233" rx="34" ry="24" transform="rotate(-16 260 233)" fill="#071a3a"/>
+  <text x="92" y="358" fill="#0b2450" font-family="Inter, Arial" font-size="28" font-weight="800">Sons organisés dans le temps</text>
+</svg>

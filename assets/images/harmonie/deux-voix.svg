@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="76" y="64" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Chant à deux voix</text>
+  <path d="M92 160c78-68 154 72 232 0s142-34 224 20" fill="none" stroke="#071a3a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M92 260c78-32 154 40 232-28s142-20 224 12" fill="none" stroke="#1d4ed8" stroke-width="12" stroke-linecap="round"/>
+  <text x="98" y="344" fill="#64748b" font-family="Inter, Arial" font-size="22" font-weight="800">Deux lignes complémentaires à écouter.</text>
+</svg>

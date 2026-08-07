@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="34" fill="#f8fbff"/>
+  <text x="76" y="64" fill="#0b2450" font-family="Inter, Arial" font-size="30" font-weight="900">Justesse</text>
+  <line x1="96" y1="210" x2="544" y2="210" stroke="#1d4ed8" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="320" cy="210" r="24" fill="#071a3a"/>
+  <circle cx="190" cy="272" r="18" fill="#94a3b8"/>
+  <circle cx="450" cy="142" r="18" fill="#94a3b8"/>
+  <text x="150" y="314" fill="#64748b" font-family="Inter, Arial" font-size="20" font-weight="800">trop bas</text>
+  <text x="424" y="122" fill="#64748b" font-family="Inter, Arial" font-size="20" font-weight="800">trop haut</text>
+  <text x="286" y="270" fill="#0b2450" font-family="Inter, Arial" font-size="22" font-weight="900">juste</text>
+</svg>
