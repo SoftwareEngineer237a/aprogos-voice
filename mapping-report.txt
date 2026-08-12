@@ -1,0 +1,145 @@
+id_original -> id_final | titre | fichier paroles
+1 -> 1 | Conduis Moi Seigneur | paroles/conduis-moi-seigneur.txt
+2 -> 2 | Aimé Jesus (t'aimer) | paroles/aime-jesus-taimer.txt
+3 -> 3 | Onction divines | paroles/onction-divines.txt
+4 -> 4 | Veu ma ngul dzoue | paroles/veu-ma-ngul-dzoue.txt
+5 -> 5 | Le grand Boss | paroles/le-grand-boss.txt
+6 -> 6 | Freedom | paroles/freedom.txt
+7 -> 7 | Touche moi Seigneur | paroles/touche-moi-seigneur.txt
+8 -> 8 | U Koli | paroles/u-koli.txt
+9 -> 9 | je me prosterne devant toi | paroles/je-me-prosterne-devant-toi.txt
+10 -> 10 | J'aime le nom de Jesus | paroles/jaime-le-nom-de-jesus.txt
+11 -> 11 | Reçois ma louange Dieu Souverain | paroles/recois-ma-louange-dieu-souverain.txt
+12 -> 12 | Je suis l'argile et toi le potier | paroles/je-suis-largile-et-toi-le-potier.txt
+13 -> 13 | Tu es mon refuge | paroles/tu-es-mon-refuge.txt
+14 -> 14 | My God is a king / Eh yaya eh | paroles/my-god-is-a-king-eh-yaya-eh.txt
+15 -> 15 | Tu règne dans les cieux | paroles/tu-regne-dans-les-cieux.txt
+16 -> 16 | Oui je crois en toi Seigneur | paroles/oui-je-crois-en-toi-seigneur.txt
+17 -> 17 | J'avais décidé de tout abandonner | paroles/javais-decide-de-tout-abandonner.txt
+18 -> 18 | Ti me ngui yo | paroles/ti-me-ngui-yo.txt
+19 -> 19 | J'aime ta presence | paroles/jaime-ta-presence.txt
+20 -> 20 | Je t'aime Seigneur (remplis moi de ton amour) | paroles/je-taime-seigneur-remplis-moi-de-ton-amour.txt
+21 -> 21 | Gloire gloire à celui qui vie la haut | paroles/gloire-gloire-a-celui-qui-vie-la-haut.txt
+22 -> 22 | Tu mérites la gloire | paroles/tu-merites-la-gloire.txt
+23 -> 23 | Tu peux le faire | paroles/tu-peux-le-faire.txt
+24 -> 24 | Jehovah tu es mon refuge sur | paroles/jehovah-tu-es-mon-refuge-sur.txt
+25 -> 25 | Power of ressurection | paroles/power-of-ressurection.txt
+26 -> 26 | Seigneur je veux entrer dans ton sanctuaire | paroles/seigneur-je-veux-entrer-dans-ton-sanctuaire.txt
+27 -> 27 | Plus près de toi | paroles/plus-pres-de-toi.txt
+28 -> 28 | L'Éternel est mon Berger | paroles/leternel-est-mon-berger.txt
+29 -> 29 | Quand tu es là | paroles/quand-tu-es-la.txt
+30 -> 30 | Tu es tout pour moi( en Eyondo) | paroles/tu-es-tout-pour-moi-en-eyondo.txt
+31 -> 31 | Règnes | paroles/regnes.txt
+32 -> 32 | Massé mêm | paroles/masse-mem.txt
+33 -> 33 | Good God | paroles/good-god.txt
+34 -> 34 | In His Sanctuary | paroles/in-his-sanctuary.txt
+35 -> 35 | Apprends moi à écouter | paroles/apprends-moi-a-ecouter.txt
+36 -> 36 | Ta présence est ma force | paroles/ta-presence-est-ma-force.txt
+37 -> 37 | Ngeda mgwen wem | paroles/ngeda-mgwen-wem.txt
+38 -> 38 | Take it all | paroles/take-it-all.txt
+39 -> 39 | I need you Jesus | paroles/i-need-you-jesus.txt
+40 -> 40 | Sois fidèle jusqu'au bout | paroles/sois-fidele-jusquau-bout.txt
+41 -> 41 | Inonde moi | paroles/inonde-moi.txt
+42 -> 42 | Dieu qui peut tout | paroles/dieu-qui-peut-tout.txt
+43 -> 43 | Le saint est la | paroles/le-saint-est-la.txt
+44 -> 44 | Juste pour moi | paroles/juste-pour-moi.txt
+45 -> 45 | tu es Yahweh | paroles/tu-es-yahweh.txt
+46 -> 46 | Jesus, roi de ma vie | paroles/jesus-roi-de-ma-vie.txt
+47 -> 47 | Lipem li ba ni we | paroles/lipem-li-ba-ni-we.txt
+48 -> 48 | Je t'adore | paroles/je-tadore.txt
+49 -> 49 | tu es Yahweh | paroles/tu-es-yahweh-1.txt
+50 -> 50 | Only you are my father | paroles/only-you-are-my-father.txt
+51 -> 51 | Mon bien | paroles/mon-bien.txt
+52 -> 52 | Roi éternel vis à jamais | paroles/roi-eternel-vis-a-jamais.txt
+53 -> 53 | Seigneur Merci | paroles/seigneur-merci.txt
+54 -> 54 | I will give every thing for you | paroles/i-will-give-every-thing-for-you.txt
+55 -> 55 | I praise you | paroles/i-praise-you.txt
+56 -> 56 | Tu es jehovah | paroles/tu-es-jehovah.txt
+57 -> 57 | Worthy to be praise | paroles/worthy-to-be-praise.txt
+58 -> 58 | Je l'ai rencontré | paroles/je-lai-rencontre.txt
+59 -> 59 | Je te cherirai toujours | paroles/je-te-cherirai-toujours.txt
+60 -> 60 | Près de toi | paroles/pres-de-toi.txt
+61 -> 61 | Je ne veux adorer que toi | paroles/je-ne-veux-adorer-que-toi.txt
+62 -> 62 | Mon ame te cherche | paroles/mon-ame-te-cherche.txt
+63 -> 63 | Crois seulement | paroles/crois-seulement.txt
+64 -> 64 | Tu es ma lumiere | paroles/tu-es-ma-lumiere.txt
+65 -> 65 | Tu es tout pour moi | paroles/tu-es-tout-pour-moi.txt
+66 -> 66 | Attaché à toi | paroles/attache-a-toi.txt
+67 -> 67 | Car ton nom est saint | paroles/car-ton-nom-est-saint.txt
+68 -> 68 | Ton nom est au-dessus de tout | paroles/ton-nom-est-au-dessus-de-tout.txt
+69 -> 69 | Ce dont mon coeur a besoin | paroles/ce-dont-mon-coeur-a-besoin.txt
+70 -> 70 | Mon ame t'adore | paroles/mon-ame-tadore.txt
+71 -> 71 | Tu es bon | paroles/tu-es-bon.txt
+72 -> 72 | Reveles toi | paroles/reveles-toi.txt
+73 -> 73 | Tu as pris ma place | paroles/tu-as-pris-ma-place.txt
+74 -> 74 | Come fill my heart lord | paroles/come-fill-my-heart-lord.txt
+75 -> 75 | Ton nom est fidèle | paroles/ton-nom-est-fidele.txt
+76 -> 76 | Tu es digne | paroles/tu-es-digne.txt
+77 -> 77 | Père tu l'as fait pour moi | paroles/pere-tu-las-fait-pour-moi.txt
+78 -> 78 | Je ne suis rien sans toi | paroles/je-ne-suis-rien-sans-toi.txt
+79 -> 79 | You are powerful Jesus | paroles/you-are-powerful-jesus.txt
+80 -> 80 | Laisse moi entrer | paroles/laisse-moi-entrer.txt
+81 -> 81 | Un chant s'élève | paroles/un-chant-seleve.txt
+82 -> 82 | Je m'abandonne à toi | paroles/je-mabandonne-a-toi.txt
+83 -> 83 | C'est toi le soleil' | paroles/cest-toi-le-soleil.txt
+84 -> 84 | Reveille moi | paroles/reveille-moi.txt
+85 -> 85 | Juste te plaire | paroles/juste-te-plaire.txt
+86 -> 86 | Me voici | paroles/me-voici.txt
+87 -> 87 | Here I am | paroles/here-i-am.txt
+88 -> 88 | Je travail et je recolte | paroles/je-travail-et-je-recolte.txt
+89 -> 89 | Merci Merci (Enfants) | paroles/merci-merci-enfants.txt
+90 -> 90 | Donne moi la foi | paroles/donne-moi-la-foi.txt
+91 -> 91 | J'ai faim de toi | paroles/jai-faim-de-toi.txt
+92 -> 92 | Pas comme les autres | paroles/pas-comme-les-autres.txt
+93 -> 93 | Me beges we | paroles/me-beges-we.txt
+94 -> 94 | Attires moi | paroles/attires-moi.txt
+95 -> 95 | Souffle sur nous | paroles/souffle-sur-nous.txt
+96 -> 96 | Esprit viens | paroles/esprit-viens.txt
+97 -> 97 | Tu règnes dans les cieux et sur la terre | paroles/tu-regnes-dans-les-cieux-et-sur-la-terre.txt
+98 -> 98 | Seigneur de gloire | paroles/seigneur-de-gloire.txt
+99 -> 99 | Ouvre moi la porte | paroles/ouvre-moi-la-porte.txt
+100 -> 100 | Holy Jesus | paroles/holy-jesus.txt
+101 -> 101 | Les fruits de l'esprit (enfants) | paroles/les-fruits-de-lesprit-enfants.txt
+102 -> 102 | Arroses | paroles/arroses.txt
+103 -> 103 | El Adonai | paroles/el-adonai.txt
+104 -> 104 | Pardonnes | paroles/pardonnes.txt
+105 -> 105 | Je suis à toi | paroles/je-suis-a-toi.txt
+106 -> 106 | Ouvre les yeux de mon coeur | paroles/ouvre-les-yeux-de-mon-coeur.txt
+107 -> 107 | Il y a un nom | paroles/il-y-a-un-nom.txt
+108 -> 108 | Alleloua | paroles/alleloua.txt
+109 -> 109 | Tu règnes | paroles/tu-regnes.txt
+110 -> 110 | Qui ne te craindrait | paroles/qui-ne-te-craindrait.txt
+111 -> 111 | Coule en moi | paroles/coule-en-moi.txt
+99 -> 112 | Eleves toi | paroles/eleves-toi.txt  <-- renuméroté
+112 -> 113 | You are my God | paroles/you-are-my-god.txt  <-- renuméroté
+113 -> 114 | Your name is Alpha | paroles/your-name-is-alpha.txt  <-- renuméroté
+114 -> 115 | Marches avec moi | paroles/marches-avec-moi.txt  <-- renuméroté
+115 -> 116 | Purifie moi | paroles/purifie-moi.txt  <-- renuméroté
+116 -> 117 | Je veux etre saint | paroles/je-veux-etre-saint.txt  <-- renuméroté
+117 -> 118 | Jesus | paroles/jesus.txt  <-- renuméroté
+118 -> 119 | Mut Nupe A Tabe ki we | paroles/mut-nupe-a-tabe-ki-we.txt  <-- renuméroté
+119 -> 120 | Sois béni | paroles/sois-beni.txt  <-- renuméroté
+120 -> 121 | Laisse moi entrer dans tes parvis | paroles/laisse-moi-entrer-dans-tes-parvis.txt  <-- renuméroté
+121 -> 122 | Victory Belong to Jesus | paroles/victory-belong-to-jesus.txt  <-- renuméroté
+122 -> 123 | Je te fais confiance | paroles/je-te-fais-confiance.txt  <-- renuméroté
+123 -> 124 | Emmanuel | paroles/emmanuel.txt  <-- renuméroté
+124 -> 125 | Tiens moi par la main | paroles/tiens-moi-par-la-main.txt  <-- renuméroté
+125 -> 126 | Tout va bien | paroles/tout-va-bien.txt  <-- renuméroté
+126 -> 127 | Tu es souverain | paroles/tu-es-souverain.txt  <-- renuméroté
+127 -> 128 | Gloire à l'agneau de Dieu | paroles/gloire-a-lagneau-de-dieu.txt  <-- renuméroté
+128 -> 129 | Reçois l'honneur | paroles/recois-lhonneur.txt  <-- renuméroté
+129 -> 130 | Dis juste un mot | paroles/dis-juste-un-mot.txt  <-- renuméroté
+130 -> 131 | Oh Lord | paroles/oh-lord.txt  <-- renuméroté
+131 -> 132 | I'm waiting for you | paroles/im-waiting-for-you.txt  <-- renuméroté
+132 -> 133 | Tu as promis | paroles/tu-as-promis.txt  <-- renuméroté
+133 -> 134 | Je me prosterne | paroles/je-me-prosterne.txt  <-- renuméroté
+134 -> 135 | Juste en peu de toi | paroles/juste-en-peu-de-toi.txt  <-- renuméroté
+135 -> 136 | Plus de toi | paroles/plus-de-toi.txt  <-- renuméroté
+136 -> 137 | L'amour de Dieu | paroles/lamour-de-dieu.txt  <-- renuméroté
+137 -> 138 | Magnifique en saintété | paroles/magnifique-en-saintete.txt  <-- renuméroté
+138 -> 139 | Adonai sois magnifié | paroles/adonai-sois-magnifie.txt  <-- renuméroté
+139 -> 140 | Abba | paroles/abba.txt  <-- renuméroté
+140 -> 141 | Yeshuah Messiah | paroles/yeshuah-messiah.txt  <-- renuméroté
+141 -> 142 | Hosanna eh | paroles/hosanna-eh.txt  <-- renuméroté
+142 -> 143 | Reçois mon adoration | paroles/recois-mon-adoration.txt  <-- renuméroté
+143 -> 144 | Ta présence je la veux | paroles/ta-presence-je-la-veux.txt  <-- renuméroté
