@@ -200,7 +200,7 @@
         }
       })
       .catch(() => {
-        const message = "Impossible de charger les paroles pour ce chant.";
+        const message = "Les paroles de ce chant ne sont pas encore disponible.";
         if (requestId === lyricsRequestToken) {
           box.textContent = message;
         }
