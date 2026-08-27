@@ -10,8 +10,14 @@
 
 .song-row.active { box-shadow: inset 3px 0 0 var(--blue); }
 
+#songDetail {
+  align-self: flex-start;
+}
+
 .lyric-box {
   white-space: pre-wrap;
   line-height: 1.85;
   overflow-wrap: anywhere;
+  overflow: visible;
+  max-height: none;
 }

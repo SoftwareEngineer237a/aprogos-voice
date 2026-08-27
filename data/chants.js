@@ -73,11 +73,11 @@ const chants = [
   },
   {
     id: 9,
-    titre: "je me prosterne devant toi",
+    titre: "Emmanuel est là",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2021",
+    annee: "2026",
     langue: "Français",
-    paroles: "paroles/je-me-prosterne-devant-toi.txt",
+    paroles: "paroles/emmanuel-est-la.txt",
     audio: ""
   },
   {
@@ -129,7 +129,7 @@ const chants = [
     id: 15,
     titre: "Tu règne dans les cieux",
     auteur: "Pasteur Nadine AYISSI",
-    annee: "2022",
+    annee: "2017",
     langue: "Français",
     paroles: "paroles/tu-regne-dans-les-cieux.txt",
     audio: ""
@@ -172,11 +172,11 @@ const chants = [
   },
   {
     id: 20,
-    titre: "Je t'aime Seigneur (remplis moi de ton amour)",
+    titre: "Je veux t'aimer plus",
     auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2026",
     langue: "Français",
-    paroles: "paroles/je-taime-seigneur-remplis-moi-de-ton-amour.txt",
+    paroles: "paroles/je-veux-taimer-plus.txt",
     audio: ""
   },
   {
@@ -865,11 +865,11 @@ const chants = [
   },
   {
     id: 97,
-    titre: "Tu règnes dans les cieux et sur la terre",
+    titre: "Je domine",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2017",
+    annee: "2024",
     langue: "Français",
-    paroles: "paroles/tu-regnes-dans-les-cieux-et-sur-la-terre.txt",
+    paroles: "paroles/je-domine.txt",
     audio: ""
   },
   {
@@ -1288,11 +1288,38 @@ const chants = [
   },
   {
     id: 144,
-    titre: "Ta présence je la veux",
+    titre: "Ta présence est ma force",
     auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2022",
     langue: "Français",
-    paroles: "paroles/ta-presence-je-la-veux.txt",
+    paroles: "paroles/ta-presence-est-ma-force.txt",
+    audio: ""
+  },
+  {
+    id: 145,
+    titre: "Je combats dans la victoire",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2022",
+    langue: "Français",
+    paroles: "paroles/je-combats-dans-la-victoire.txt",
+    audio: ""
+  },
+  {
+    id: 146,
+    titre: "Come and take your place",
+    auteur: "Benny Emmanuelle",
+    annee: "2024",
+    langue: "Anglais",
+    paroles: "paroles/come-and-take-your-place.txt",
+    audio: ""
+  },
+  {
+    id: 147,
+    titre: "Seul Dieu me suffit",
+    auteur: "Benny Emmanuelle",
+    annee: "2024",
+    langue: "Anglais",
+    paroles: "paroles/seul-dieu-me-suffit.txt",
     audio: ""
   }
 ];
