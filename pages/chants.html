@@ -49,7 +49,7 @@
           <button id="resetSongFilters" type="button" class="btn-secondary h-12 px-5">Réinitialiser</button>
         </div>
 
-        <div class="mt-8 grid gap-6 lg:grid-cols-[minmax(0,0.96fr)_minmax(360px,0.74fr)] lg:items-start">
+        <div class="mt-8">
           <section class="rounded-[1.7rem] border border-slate-200 bg-white p-3 shadow-sm sm:p-4 reveal" aria-labelledby="song-results-title">
             <div class="flex items-center justify-between gap-4 px-2 pb-3">
               <h2 id="song-results-title" class="text-lg font-black text-slate-950">Résultats</h2>
@@ -58,12 +58,14 @@
             <div id="songList" class="grid gap-2" aria-live="polite"></div>
             <p id="emptySongs" class="hidden rounded-2xl bg-slate-50 p-6 text-center font-bold text-slate-500">Aucun chant trouvé.</p>
           </section>
-
-          <aside id="songDetail" class="rounded-[1.7rem] border border-slate-200 bg-white p-5 shadow-sm sm:p-7 reveal" aria-live="polite" aria-label="Détail du chant"></aside>
         </div>
       </div>
     </section>
   </main>
+
+  <div id="songDetailOverlay" class="song-detail-overlay" hidden>
+    <aside id="songDetail" class="song-detail-dialog" role="dialog" aria-modal="true" aria-labelledby="songDetailTitle" aria-live="polite" aria-label="Détail du chant"></aside>
+  </div>
 
   <div id="siteFooter"></div>
 

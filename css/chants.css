@@ -10,8 +10,64 @@
 
 .song-row.active { box-shadow: inset 3px 0 0 var(--blue); }
 
-#songDetail {
-  align-self: flex-start;
+.song-detail-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  background: rgba(7, 26, 58, 0.62);
+  backdrop-filter: blur(3px);
+}
+
+.song-detail-overlay[hidden] {
+  display: none;
+}
+
+.song-detail-dialog {
+  width: min(100%, 42rem);
+  max-height: min(90vh, 52rem);
+  overflow-y: auto;
+  border: 1px solid #e2e8f0;
+  border-radius: 1.7rem;
+  background: #fff;
+  padding: 1.25rem;
+  box-shadow: 0 1.5rem 4rem rgba(7, 26, 58, 0.28);
+  animation: song-detail-enter 180ms ease-out;
+}
+
+.song-detail-close {
+  display: grid;
+  width: 2.25rem;
+  height: 2.25rem;
+  flex: 0 0 auto;
+  place-items: center;
+  border-radius: 999px;
+  color: #475569;
+  font-size: 1.75rem;
+  line-height: 1;
+  transition: background 160ms ease, color 160ms ease;
+}
+
+.song-detail-close:hover {
+  background: #f1f5f9;
+  color: #0f172a;
+}
+
+body.song-detail-open {
+  overflow: hidden;
+}
+
+@keyframes song-detail-enter {
+  from {
+    opacity: 0;
+    transform: translateY(0.75rem) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
 }
 
 .lyric-box {

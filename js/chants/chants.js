@@ -12,6 +12,7 @@
     dom.reset = document.getElementById("resetSongFilters");
     dom.list = document.getElementById("songList");
     dom.detail = document.getElementById("songDetail");
+    dom.detailOverlay = document.getElementById("songDetailOverlay");
     dom.count = document.getElementById("songCount");
     dom.empty = document.getElementById("emptySongs");
   }
@@ -31,11 +32,13 @@
 
     dom.reset.addEventListener("click", resetSongFilters);
     dom.detail.addEventListener("click", (event) => {
-      if (event.target.closest("[data-back-to-songs]")) {
-        clearSongSelection(true);
-        renderSongs();
-        renderSongDetail(null);
-      }
+      if (event.target.closest("[data-close-song-detail]")) closeSongDetail();
+    });
+    dom.detailOverlay.addEventListener("click", (event) => {
+      if (event.target === dom.detailOverlay) closeSongDetail();
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && !dom.detailOverlay.hidden) closeSongDetail();
     });
 
     window.addEventListener("popstate", () => {
@@ -92,6 +95,12 @@
     }
   }
 
+  function closeSongDetail() {
+    clearSongSelection(true);
+    renderSongs();
+    renderSongDetail(null);
+  }
+
   function selectSong(songId) {
     state.selectedSongId = songId;
     const url = new URL(window.location.href);
@@ -135,6 +144,8 @@
   function renderSongDetail(songId) {
     const song = getSongs().find((item) => item.id === Number(songId));
     if (!song) {
+      dom.detailOverlay.hidden = true;
+      document.body.classList.remove("song-detail-open");
       dom.detail.innerHTML = `
         <div class="grid min-h-[22rem] place-items-center text-center">
           <div>
@@ -146,13 +157,18 @@
       return;
     }
 
+    dom.detailOverlay.hidden = false;
+    document.body.classList.add("song-detail-open");
     dom.detail.innerHTML = `
-      <button type="button" data-back-to-songs class="mb-5 inline-flex text-sm font-black text-blue-700 hover:text-blue-950">Retour à la liste</button>
+      <div class="flex items-start justify-between gap-4">
+        <button type="button" data-close-song-detail class="inline-flex text-sm font-black text-blue-700 hover:text-blue-950">Retour à la liste</button>
+        <button type="button" data-close-song-detail class="song-detail-close" aria-label="Fermer le détail du chant">&times;</button>
+      </div>
       <div class="flex items-center gap-3">
         <span class="grid h-9 w-9 shrink-0 place-items-center rounded-full bg-blue-800 text-sm font-black text-white">${song.id}</span>
         <p class="section-kicker">Détail du chant</p>
       </div>
-      <h2 class="mt-3 text-3xl font-black tracking-[-0.04em] text-slate-950">${AprogosHelpers.escapeHtml(song.titre)}</h2>
+      <h2 id="songDetailTitle" class="mt-3 text-3xl font-black tracking-[-0.04em] text-slate-950">${AprogosHelpers.escapeHtml(song.titre)}</h2>
       <dl class="mt-6 grid gap-3 sm:grid-cols-3 lg:grid-cols-1 xl:grid-cols-3">
         ${detailMeta("Auteur", song.auteur || "Non renseigné")}
         ${detailMeta("Année", song.annee || "Non renseignée")}
