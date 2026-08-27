@@ -39,7 +39,7 @@ const chants = [
     id: 5,
     titre: "Le grand Boss",
     auteur: "Pasteur Nadine AYISSI",
-    annee: "2023",
+    annee: "2024",
     langue: "Français",
     paroles: "paroles/le-grand-boss.txt",
     audio: ""
