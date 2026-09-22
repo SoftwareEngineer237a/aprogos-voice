@@ -3,7 +3,7 @@ const chants = [
     id: 1,
     titre: "Conduis Moi Seigneur",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2015",
+    annee: "2016",
     langue: "Français",
     paroles: "paroles/conduis-moi-seigneur.txt",
     audio: ""
@@ -12,7 +12,7 @@ const chants = [
     id: 2,
     titre: "T'aimer, Jesus",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2015",
+    annee: "2019",
     langue: "Français",
     paroles: "paroles/taimer-jesus.txt",
     audio: ""
@@ -55,7 +55,7 @@ const chants = [
   },
   {
     id: 7,
-    titre: "Touche moi Seigneur",
+    titre: "Touches moi",
     auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2020",
     langue: "Français",
@@ -73,11 +73,11 @@ const chants = [
   },
   {
     id: 9,
-    titre: "Emmanuel est là",
+    titre: "Dieu présent",
     auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2026",
     langue: "Français",
-    paroles: "paroles/emmanuel-est-la.txt",
+    paroles: "paroles/dieu-present.txt",
     audio: ""
   },
   {
@@ -91,16 +91,16 @@ const chants = [
   },
   {
     id: 11,
-    titre: "Reçois ma louange Dieu Souverain",
+    titre: "Reçois ma louange",
     auteur: "Apôtre Guy BAYONG",
     annee: "2026",
     langue: "Français",
-    paroles: "paroles/recois-ma-louange-dieu-souverain.txt",
+    paroles: "paroles/recois-ma-louange.txt",
     audio: ""
   },
   {
     id: 12,
-    titre: "Je suis l'argile et toi le potier",
+    titre: "Je suis l'argile",
     auteur: "Apôtre Guy BAYONG",
     annee: "2019",
     langue: "Français",
@@ -147,7 +147,7 @@ const chants = [
     id: 17,
     titre: "J'avais décidé",
     auteur: "Pasteur Nadine AYISSI",
-    annee: "2020",
+    annee: "2021",
     langue: "Français",
     paroles: "paroles/javais-decide.txt",
     audio: ""
@@ -156,7 +156,7 @@ const chants = [
     id: 18,
     titre: "Ti me ngui yon",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2024",
+    annee: "2021",
     langue: "Bassa",
     paroles: "paroles/ti-me-ngui-yon.txt",
     audio: ""
@@ -217,7 +217,7 @@ const chants = [
   },
   {
     id: 25,
-    titre: "Power of ressurection",
+    titre: "The Power of ressurection",
     auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2016",
     langue: "Anglais",
@@ -226,18 +226,18 @@ const chants = [
   },
   {
     id: 26,
-    titre: "Seigneur je veux entrer dans ton sanctuaire",
+    titre: "Prosterné",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2020",
+    annee: "2026",
     langue: "Français",
-    paroles: "paroles/seigneur-je-veux-entrer-dans-ton-sanctuaire.txt",
+    paroles: "paroles/prosterné.txt",
     audio: ""
   },
   {
     id: 27,
     titre: "Plus près de toi",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2021",
+    annee: "2019",
     langue: "Français",
     paroles: "paroles/plus-pres-de-toi.txt",
     audio: ""
@@ -291,7 +291,7 @@ const chants = [
     id: 33,
     titre: "Good God",
     auteur: "Benny Emmanuelle",
-    annee: "2016",
+    annee: "2020",
     langue: "Anglais",
     paroles: "paroles/good-god.txt",
     audio: ""
@@ -318,7 +318,7 @@ const chants = [
     id: 36,
     titre: "Ta présence est ma force",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2016",
+    annee: "2023",
     langue: "Français",
     paroles: "paroles/ta-presence-est-ma-force.txt",
     audio: ""
@@ -326,8 +326,8 @@ const chants = [
   {
     id: 37,
     titre: "Ngeda mgwen wem",
-    auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2016",
+    auteur: "NGO NLEND Marie Solange",
+    annee: "2002",
     langue: "Bassa",
     paroles: "paroles/ngeda-mgwen-wem.txt",
     audio: ""
@@ -336,7 +336,7 @@ const chants = [
     id: 38,
     titre: "Take it all",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2016",
+    annee: "2020",
     langue: "Anglais",
     paroles: "paroles/take-it-all.txt",
     audio: ""
@@ -345,14 +345,14 @@ const chants = [
     id: 39,
     titre: "I need you Jesus",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2016",
+    annee: "2020",
     langue: "Anglais",
     paroles: "paroles/i-need-you-jesus.txt",
     audio: ""
   },
   {
     id: 40,
-    titre: "Sois fidèle jusqu'au bout",
+    titre: "Sois fidèle",
     auteur: "Apôtre Guy BAYONG",
     annee: "2011",
     langue: "Français",
@@ -661,7 +661,7 @@ const chants = [
     titre: "Come fill my heart lord",
     auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2020",
-    langue: "Français",
+    langue: "Anglais",
     paroles: "paroles/come-fill-my-heart-lord.txt",
     audio: ""
   },
@@ -695,7 +695,7 @@ const chants = [
   {
     id: 78,
     titre: "Je ne suis rien sans toi",
-    auteur: "Malaine Mewo",
+    auteur: "Maleine Mvele",
     annee: "2020",
     langue: "Français",
     paroles: "paroles/je-ne-suis-rien-sans-toi.txt",
@@ -739,7 +739,7 @@ const chants = [
   },
   {
     id: 83,
-    titre: "C'est toi le soleil'",
+    titre: "C'est toi le soleil",
     auteur: "Chantre Agréable",
     annee: "2018",
     langue: "Français",
@@ -748,7 +748,7 @@ const chants = [
   },
   {
     id: 84,
-    titre: "Reveille moi",
+    titre: "Reveilles moi",
     auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2021",
     langue: "Français",
@@ -802,7 +802,7 @@ const chants = [
   },
   {
     id: 90,
-    titre: "Donne moi la foi",
+    titre: "Donnes moi la foi",
     auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2020",
     langue: "Français",
@@ -831,7 +831,7 @@ const chants = [
     id: 93,
     titre: "Me beges we",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2021",
+    annee: "2025",
     langue: "Bassa",
     paroles: "paroles/me-beges-we.txt",
     audio: ""
@@ -1155,7 +1155,7 @@ const chants = [
     id: 129,
     titre: "Reçois l'honneur",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2021",
+    annee: "2022",
     langue: "Français",
     paroles: "paroles/recois-lhonneur.txt",
     audio: ""
@@ -1227,7 +1227,7 @@ const chants = [
     id: 137,
     titre: "L'amour de Dieu",
     auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2022",
+    annee: "2023",
     langue: "Français",
     paroles: "paroles/lamour-de-dieu.txt",
     audio: ""
@@ -1235,7 +1235,7 @@ const chants = [
   {
     id: 138,
     titre: "Magnifique en saintété",
-    auteur: "",
+    auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2022",
     langue: "Français",
     paroles: "paroles/magnifique-en-saintete.txt",
@@ -1279,7 +1279,7 @@ const chants = [
   },
   {
     id: 143,
-    titre: "Reçois mon adoration",
+    titre: "Reçois",
     auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2022",
     langue: "Français",
@@ -1288,11 +1288,11 @@ const chants = [
   },
   {
     id: 144,
-    titre: "Ta présence est ma force",
+    titre: "Yesu",
     auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2022",
-    langue: "Français",
-    paroles: "paroles/ta-presence-est-ma-force.txt",
+    langue: "Bassa",
+    paroles: "paroles/yesu.txt",
     audio: ""
   },
   {
@@ -1316,10 +1316,721 @@ const chants = [
   {
     id: 147,
     titre: "Seul Dieu me suffit",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2022",
+    langue: "Français",
+    paroles: "paroles/seul-dieu-me-suffit.txt",
+    audio: ""
+  },
+  {
+    id: 148,
+    titre: "Fidèle",
+    auteur: "Apôtre Paul NKENG",
+    annee: "2004",
+    langue: "Français",
+    paroles: "paroles/fidele.txt",
+    audio: ""
+  },
+  {
+    id: 149,
+    titre: "Ta parole",
     auteur: "Benny Emmanuelle",
+    annee: "2019",
+    langue: "Français",
+    paroles: "paroles/ta-parole.txt",
+    audio: ""
+  },
+  {
+    id: 150,
+    titre: "I worship you",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2021",
+    langue: "Anglais",
+    paroles: "paroles/i-worship-you.txt",
+    audio: ""
+  },
+  {
+    id: 151,
+    titre: "Lolombi",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2022",
+    langue: "Bassa",
+    paroles: "paroles/lolombi.txt",
+    audio: ""
+  },
+  {
+    id: 152,
+    titre: "Ne me laisse pas seule",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/ne-me-laisse-pas-seule.txt",
+    audio: ""
+  },
+  {
+    id: 153,
+    titre: "Liwanda",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2022",
+    langue: "Bassa",
+    paroles: "paroles/liwanda.txt",
+    audio: ""
+  },
+  {
+    id: 154,
+    titre: "Yeshua",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2022",
+    langue: "Bassa",
+    paroles: "paroles/yeshua.txt",
+    audio: ""
+  },
+  {
+    id: 155,
+    titre: "Jehovah",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2022",
+    langue: "Français",
+    paroles: "paroles/jehovah.txt",
+    audio: ""
+  },
+  {
+    id: 156,
+    titre: "Je t'aime",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/je-taime.txt",
+    audio: ""
+  },
+  {
+    id: 157,
+    titre: "Le sang de Christ",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/le-sang-de-christ.txt",
+    audio: ""
+  },
+  {
+    id: 158,
+    titre: "Je te remets tout",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2022",
+    langue: "Français",
+    paroles: "paroles/je-te-remets-tout.txt",
+    audio: ""
+  },
+  {
+    id: 159,
+    titre: "Touches moi encore",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2022",
+    langue: "Français",
+    paroles: "paroles/touches-moi-encore.txt",
+    audio: ""
+  },
+  {
+    id: 160,
+    titre: "Viens à Jesus",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "1998",
+    langue: "Français",
+    paroles: "paroles/viens-a-jesus.txt",
+    audio: ""
+  },
+  {
+    id: 161,
+    titre: "Saint Esprit Descends",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/saint-esprit-descends.txt",
+    audio: ""
+  },
+  {
+    id: 162,
+    titre: "Ton onction dans ma vie",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/ton-onction-dans-ma-vie.txt",
+    audio: ""
+  },
+  {
+    id: 163,
+    titre: "Jesus est bon",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Français",
+    paroles: "paroles/jesus-est-bon.txt",
+    audio: ""
+  },
+  {
+    id: 164,
+    titre: "Mon coeur t'attends",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/mon-coeur-t-attends.txt",
+    audio: ""
+  },
+  {
+    id: 165,
+    titre: "A l'agneau de Dieu soit toute la gloire",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/a-lagneau-de-dieu-soit-toute-la-gloire.txt",
+    audio: ""
+  },
+  {
+    id: 166,
+    titre: "yaweh reçois toute la gloire",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/yaweh-recois-toute-la-gloire.txt",
+    audio: ""
+  },
+  {
+    id: 167,
+    titre: "King of glory",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Anglais",
+    paroles: "paroles/king-of-glory.txt",
+    audio: ""
+  },
+  {
+    id: 168,
+    titre: "Le meilleur des papas",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/le-meilleur-des-papas.txt",
+    audio: ""
+  },
+  {
+    id: 169,
+    titre: "Jesus ne connait pas l'impossible",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/jesus-ne-connait-pas-l-impossible.txt",
+    audio: ""
+  },
+  {
+    id: 170,
+    titre: "Jesus est vivant",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/jesus-est-vivant.txt",
+    audio: ""
+  },
+  {
+    id: 171,
+    titre: "Hosanna",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/hosanna.txt",
+    audio: ""
+  },
+  {
+    id: 172,
+    titre: "Tu es le Dieu grand",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/tu-es-le-dieu-grand.txt",
+    audio: ""
+  },
+  {
+    id: 173,
+    titre: "Il est assis sur son trone",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/il-est-assis-sur-son-trone.txt",
+    audio: ""
+  },
+  {
+    id: 174,
+    titre: "Rien n'est impossible à Dieu",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/rien-n-est-impossible-à-dieu.txt",
+    audio: ""
+  },
+  {
+    id: 175,
+    titre: "Make me to upgrade",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Anglais",
+    paroles: "paroles/make-me-to-upgrade.txt",
+    audio: ""
+  },
+  {
+    id: 176,
+    titre: "J'aime ta presence",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/j-aime-ta-presence2.txt",
+    audio: ""
+  },
+  {
+    id: 177,
+    titre: "Il est là",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/il-est-la.txt",
+    audio: ""
+  },
+  {
+    id: 178,
+    titre: "Prends ta place",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/prends-ta-place.txt",
+    audio: ""
+  },
+  {
+    id: 179,
+    titre: "Quand Jésus est là",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/quand-jesus-est-là.txt",
+    audio: ""
+  },
+  {
+    id: 180,
+    titre: "You are my everything",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/you-are-my-everything.txt",
+    audio: ""
+  },
+  {
+    id: 181,
+    titre: "Il le fera",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/il-le-fera.txt",
+    audio: ""
+  },
+  {
+    id: 182,
+    titre: "Tu es sans pareil",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2023",
+    langue: "Français",
+    paroles: "paroles/tu-es-sans-pareil.txt",
+    audio: ""
+  },
+  {
+    id: 183,
+    titre: "Tu es fidèle",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Français",
+    paroles: "paroles/tu-es-fidele.txt",
+    audio: ""
+  },
+  {
+    id: 184,
+    titre: "Recentres moi sur toi",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Français",
+    paroles: "paroles/recentres-moi-sur-toi.txt",
+    audio: ""
+  },
+  {
+    id: 185,
+    titre: "Jesus Jesus",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Français",
+    paroles: "paroles/jesus-jesus.txt",
+    audio: ""
+  },
+  {
+    id: 186,
+    titre: "Remplis-moi",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Français",
+    paroles: "paroles/remplis-moi.txt",
+    audio: ""
+  },
+  {
+    id: 187,
+    titre: "The blood of Jesus",
+    auteur: "Pasteur Pascale Ngo YETNA",
     annee: "2024",
     langue: "Anglais",
-    paroles: "paroles/seul-dieu-me-suffit.txt",
+    paroles: "paroles/the-blood-of-jesus.txt",
+    audio: ""
+  },
+  {
+    id: 188,
+    titre: "Miracle God",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Anglais",
+    paroles: "paroles/miracle-god.txt",
+    audio: ""
+  },
+  {
+    id: 189,
+    titre: "The rock of my life",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Anglais",
+    paroles: "paroles/the-rock-of-my-life.txt",
+    audio: ""
+  },
+  {
+    id: 190,
+    titre: "Car tu es le meilleur",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Français",
+    paroles: "paroles/car-tu-es-le-meilleur.txt",
+    audio: ""
+  },
+  {
+    id: 191,
+    titre: "I trust in you",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Anglais",
+    paroles: "paroles/i-trust-in-you.txt",
+    audio: ""
+  },
+  {
+    id: 192,
+    titre: "Je compte sur toi",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Français",
+    paroles: "paroles/je-compte-sur-toi.txt",
+    audio: ""
+  },
+  {
+    id: 193,
+    titre: "Aucun autre nom",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Français",
+    paroles: "paroles/aucun-autre-nom.txt",
+    audio: ""
+  },
+  {
+    id: 194,
+    titre: "A l'agneau",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Français",
+    paroles: "paroles/a-l-agneau.txt",
+    audio: ""
+  },
+  {
+    id: 195,
+    titre: "Send your fire",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Anglais",
+    paroles: "paroles/send-your-fire.txt",
+    audio: ""
+  },
+  {
+    id: 196,
+    titre: "Digne de louange",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2024",
+    langue: "Français",
+    paroles: "paroles/digne-de-louange.txt",
+    audio: ""
+  },
+  {
+    id: 197,
+    titre: "Mon secours",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/mon-secours.txt",
+    audio: ""
+  },
+  {
+    id: 198,
+    titre: "C'est bon pour moi",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/c-est-bon-pour-moi.txt",
+    audio: ""
+  },
+  {
+    id: 199,
+    titre: "Nous avons la victoire",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/nous-avons-la-victoire.txt",
+    audio: ""
+  },
+  {
+    id: 200,
+    titre: "Ton sanctuaire",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/ton-sanctuaire.txt",
+    audio: ""
+  },
+  {
+    id: 201,
+    titre: "Je te remercie",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/je-te-remercie.txt",
+    audio: ""
+  },
+  {
+    id: 202,
+    titre: "Deserve the glory",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Anglais",
+    paroles: "paroles/deserve-the-glory.txt",
+    audio: ""
+  },
+  {
+    id: 203,
+    titre: "Comme tu es grand",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/comme-tu-es-grand.txt",
+    audio: ""
+  },
+  {
+    id: 204,
+    titre: "Ta volonté",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/ta-volonté.txt",
+    audio: ""
+  },
+  {
+    id: 205,
+    titre: "Hozanna",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/hozanna.txt",
+    audio: ""
+  },
+  {
+    id: 206,
+    titre: "Saint Saint",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/saint-saint.txt",
+    audio: ""
+  },
+  {
+    id: 207,
+    titre: "Elele",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/elele.txt",
+    audio: ""
+  },
+  {
+    id: 208,
+    titre: "Your name is powerful",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Anglais",
+    paroles: "paroles/your-name-is-powerful.txt",
+    audio: ""
+  },
+  {
+    id: 209,
+    titre: "Son règne est eternel",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/son-règne-est-éternel.txt",
+    audio: ""
+  },
+  {
+    id: 210,
+    titre: "honneur au père",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/honneur_au_pere.txt",
+    audio: ""
+  },
+  {
+    id: 211,
+    titre: "Esprit saint prends place",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/esprit-saint-prends-place.txt",
+    audio: ""
+  },
+  {
+    id: 212,
+    titre: "A genoux",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/a-genoux.txt",
+    audio: ""
+  },
+  {
+    id: 213,
+    titre: "Sois béni pour qui tu es",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/sois-béni-pour-qui-tu-es.txt",
+    audio: ""
+  },
+  {
+    id: 214,
+    titre: "Ce que je veux c'est toi",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/ce-que-je-veux-c-est-toi.txt",
+    audio: ""
+  },
+  {
+    id: 215,
+    titre: "La foi",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/la-foi.txt",
+    audio: ""
+  },
+  {
+    id: 216,
+    titre: "Alleloua Jesus regne a jamais",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2025",
+    langue: "Français",
+    paroles: "paroles/alleloua-jesus-regne-a-jamais.txt",
+    audio: ""
+  },
+  {
+    id: 217,
+    titre: "Emmanuel est là",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2026",
+    langue: "Français",
+    paroles: "paroles/emmanuel-est-la.txt",
+    audio: ""
+  },
+  {
+    id: 218,
+    titre: "Le nom de Jesus",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2026",
+    langue: "Français",
+    paroles: "paroles/le-nom-de-jesus.txt",
+    audio: ""
+  },
+  {
+    id: 219,
+    titre: "Le plus beau des noms",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2026",
+    langue: "Français",
+    paroles: "paroles/le-plus-beau-des-noms.txt",
+    audio: ""
+  },
+  {
+    id: 220,
+    titre: "Moi je crois",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2026",
+    langue: "Français",
+    paroles: "paroles/moi-je-crois.txt",
+    audio: ""
+  },
+  {
+    id: 221,
+    titre: "Je veux rester avec toi",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2026",
+    langue: "Français",
+    paroles: "paroles/je-veux-rester-avec-toi.txt",
+    audio: ""
+  },
+  {
+    id: 222,
+    titre: "Ta présence est savoureuse",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2026",
+    langue: "Français",
+    paroles: "paroles/ta-presence-est-savoureuse.txt",
+    audio: ""
+  },
+  {
+    id: 223,
+    titre: "Tu n'as pas ton pareil",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2026",
+    langue: "Français",
+    paroles: "paroles/tu-nas-pas-ton-pareil.txt",
+    audio: ""
+  },
+  {
+    id: 224,
+    titre: "Je me livre",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2026",
+    langue: "Français",
+    paroles: "paroles/je-me-livre.txt",
+    audio: ""
+  },
+  {
+    id: 225,
+    titre: "A tes pieds Seigneur",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2026",
+    langue: "Français",
+    paroles: "paroles/a-tes-pieds-seigneur.txt",
+    audio: ""
+  },
+  {
+    id: 226,
+    titre: "Elohim",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2026",
+    langue: "Français",
+    paroles: "paroles/elohim.txt",
     audio: ""
   }
 ];
