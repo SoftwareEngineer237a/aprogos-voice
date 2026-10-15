@@ -37,11 +37,11 @@ const chants = [
   },
   {
     id: 5,
-    titre: "Le grand Boss",
-    auteur: "Pasteur Nadine AYISSI",
-    annee: "2024",
+    titre: "El Adonai",
+    auteur: "Apôtre Guy BAYONG",
+    annee: "2021",
     langue: "Français",
-    paroles: "paroles/le-grand-boss.txt",
+    paroles: "paroles/el-adonai.txt",
     audio: ""
   },
   {
@@ -54,12 +54,12 @@ const chants = [
     audio: ""
   },
   {
-    id: 7,
-    titre: "Touches moi",
-    auteur: "Pasteur Pascale Ngo YETNA",
-    annee: "2020",
+    id: 5,
+    titre: "Le grand Boss",
+    auteur: "Pasteur Nadine AYISSI",
+    annee: "2024",
     langue: "Français",
-    paroles: "paroles/touche-moi-seigneur.txt",
+    paroles: "paroles/le-grand-boss.txt",
     audio: ""
   },
   {
@@ -919,11 +919,11 @@ const chants = [
   },
   {
     id: 103,
-    titre: "El Adonai",
-    auteur: "Apôtre Guy BAYONG",
-    annee: "2021",
+    titre: "Touches moi",
+    auteur: "Pasteur Pascale Ngo YETNA",
+    annee: "2020",
     langue: "Français",
-    paroles: "paroles/el-adonai.txt",
+    paroles: "paroles/touche-moi-seigneur.txt",
     audio: ""
   },
   {
