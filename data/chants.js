@@ -6,6 +6,7 @@ const chants = [
     annee: "2016",
     langue: "Français",
     paroles: "paroles/conduis-moi-seigneur.txt",
+    tonalité: "Mi",
     audio: ""
   },
   {
@@ -15,6 +16,7 @@ const chants = [
     annee: "2019",
     langue: "Français",
     paroles: "paroles/taimer-jesus.txt",
+    tonalité: "Do",
     audio: ""
   },
   {
@@ -24,6 +26,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/onction-divines.txt",
+    tonalité: "Do",
     audio: ""
   },
   {
@@ -33,6 +36,7 @@ const chants = [
     annee: "2021",
     langue: "Ewondo",
     paroles: "paroles/veu-ma-ngul-dzoue.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -42,6 +46,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/el-adonai.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -51,6 +56,7 @@ const chants = [
     annee: "2024",
     langue: "Anglais",
     paroles: "paroles/freedom.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -60,6 +66,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/le-grand-boss.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -69,6 +76,7 @@ const chants = [
     annee: "2020",
     langue: "Bassa",
     paroles: "paroles/u-koli.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -78,6 +86,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/dieu-present.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -87,6 +96,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/jaime-le-nom-de-jesus.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -96,6 +106,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/recois-ma-louange.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -105,6 +116,7 @@ const chants = [
     annee: "2019",
     langue: "Français",
     paroles: "paroles/je-suis-largile-et-toi-le-potier.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -114,6 +126,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/tu-es-mon-refuge.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -123,6 +136,7 @@ const chants = [
     annee: "2022",
     langue: "Anglais",
     paroles: "paroles/my-god-is-a-king-eh-yaya-eh.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -132,6 +146,7 @@ const chants = [
     annee: "2017",
     langue: "Français",
     paroles: "paroles/tu-regne-dans-les-cieux.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -141,6 +156,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/oui-je-crois-en-toi-seigneur.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -150,6 +166,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/javais-decide.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -159,6 +176,7 @@ const chants = [
     annee: "2021",
     langue: "Bassa",
     paroles: "paroles/ti-me-ngui-yon.txt",
+    tonalité: "Re",
     audio: ""
   },
   {
@@ -168,6 +186,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/jaime-ta-presence.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -177,6 +196,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/je-veux-taimer-plus.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -186,6 +206,7 @@ const chants = [
     annee: "2018",
     langue: "Français",
     paroles: "paroles/gloire-gloire.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -195,6 +216,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/tu-merites-la-gloire.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -204,6 +226,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/tu-peux-le-faire.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -213,6 +236,7 @@ const chants = [
     annee: "2016",
     langue: "Bassa",
     paroles: "paroles/jehovah-tu-es-mon-refuge-sur.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -222,6 +246,7 @@ const chants = [
     annee: "2016",
     langue: "Anglais",
     paroles: "paroles/power-of-ressurection.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -231,6 +256,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/prosterné.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -240,6 +266,7 @@ const chants = [
     annee: "2019",
     langue: "Français",
     paroles: "paroles/plus-pres-de-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -249,6 +276,7 @@ const chants = [
     annee: "2019",
     langue: "Français",
     paroles: "paroles/leternel-est-mon-berger.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -258,6 +286,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/quand-tu-es-la.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -267,6 +296,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/tu-es-tout-pour-moi-en-eyondo.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -276,6 +306,7 @@ const chants = [
     annee: "2016",
     langue: "Français",
     paroles: "paroles/regnes.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -285,6 +316,7 @@ const chants = [
     annee: "2016",
     langue: "Bassa",
     paroles: "paroles/masse-mem.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -294,6 +326,7 @@ const chants = [
     annee: "2020",
     langue: "Anglais",
     paroles: "paroles/good-god.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -303,6 +336,7 @@ const chants = [
     annee: "2016",
     langue: "Anglais",
     paroles: "paroles/in-his-sanctuary.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -312,6 +346,7 @@ const chants = [
     annee: "2016",
     langue: "Français",
     paroles: "paroles/apprends-moi-a-ecouter.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -321,6 +356,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/ta-presence-est-ma-force.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -330,6 +366,7 @@ const chants = [
     annee: "2002",
     langue: "Bassa",
     paroles: "paroles/ngeda-mgwen-wem.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -339,6 +376,7 @@ const chants = [
     annee: "2020",
     langue: "Anglais",
     paroles: "paroles/take-it-all.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -348,6 +386,7 @@ const chants = [
     annee: "2020",
     langue: "Anglais",
     paroles: "paroles/i-need-you-jesus.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -357,6 +396,7 @@ const chants = [
     annee: "2011",
     langue: "Français",
     paroles: "paroles/sois-fidele-jusquau-bout.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -366,6 +406,7 @@ const chants = [
     annee: "2013",
     langue: "Français",
     paroles: "paroles/inonde-moi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -375,6 +416,7 @@ const chants = [
     annee: "2019",
     langue: "Français",
     paroles: "paroles/dieu-qui-peut-tout.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -384,6 +426,7 @@ const chants = [
     annee: "2017",
     langue: "Français",
     paroles: "paroles/le-saint-est-la.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -393,6 +436,7 @@ const chants = [
     annee: "2016",
     langue: "Français",
     paroles: "paroles/juste-pour-moi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -402,6 +446,7 @@ const chants = [
     annee: "2019",
     langue: "Français",
     paroles: "paroles/tu-es-yahweh.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -411,6 +456,7 @@ const chants = [
     annee: "2019",
     langue: "Français",
     paroles: "paroles/jesus-roi-de-ma-vie.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -420,6 +466,7 @@ const chants = [
     annee: "2019",
     langue: "Bassa",
     paroles: "paroles/lipem-li-ba-ni-we.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -429,6 +476,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/je-tadore.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -438,6 +486,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/tel-que-je-suis.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -447,6 +496,7 @@ const chants = [
     annee: "2018",
     langue: "Anglais",
     paroles: "paroles/only-you-are-my-father.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -456,6 +506,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/mon-bien.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -465,6 +516,7 @@ const chants = [
     annee: "2019",
     langue: "Français",
     paroles: "paroles/roi-eternel-vis-a-jamais.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -474,6 +526,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/seigneur-merci.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -483,6 +536,7 @@ const chants = [
     annee: "2020",
     langue: "Anglais",
     paroles: "paroles/i-will-give-every-thing-for-you.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -492,6 +546,7 @@ const chants = [
     annee: "2018",
     langue: "Anglais",
     paroles: "paroles/i-praise-you.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -501,6 +556,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/tu-es-jehovah.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -510,6 +566,7 @@ const chants = [
     annee: "2020",
     langue: "Anglais",
     paroles: "paroles/worthy-to-be-praise.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -519,6 +576,7 @@ const chants = [
     annee: "2018",
     langue: "Français",
     paroles: "paroles/je-lai-rencontre.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -528,6 +586,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/je-te-cherirai-toujours.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -537,6 +596,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/pres-de-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -546,6 +606,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/je-ne-veux-adorer-que-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -555,6 +616,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/mon-ame-te-cherche.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -564,6 +626,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/crois-seulement.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -573,6 +636,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/tu-es-ma-lumiere.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -582,6 +646,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/tu-es-tout-pour-moi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -591,6 +656,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/attache-a-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -600,6 +666,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/car-ton-nom-est-saint.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -609,6 +676,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/ton-nom-est-au-dessus-de-tout.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -618,6 +686,7 @@ const chants = [
     annee: "2010",
     langue: "Français",
     paroles: "paroles/ce-dont-mon-coeur-a-besoin.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -627,6 +696,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/mon-ame-tadore.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -636,6 +706,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/tu-es-bon.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -645,6 +716,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/reveles-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -654,6 +726,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/tu-as-pris-ma-place.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -663,6 +736,7 @@ const chants = [
     annee: "2020",
     langue: "Anglais",
     paroles: "paroles/come-fill-my-heart-lord.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -672,6 +746,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/ton-nom-est-fidele.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -681,6 +756,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/tu-es-digne.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -690,6 +766,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/pere-tu-las-fait-pour-moi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -699,6 +776,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/je-ne-suis-rien-sans-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -708,6 +786,7 @@ const chants = [
     annee: "2020",
     langue: "Anglais",
     paroles: "paroles/you-are-powerful-jesus.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -717,6 +796,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/laisse-moi-entrer.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -726,6 +806,7 @@ const chants = [
     annee: "2019",
     langue: "Français",
     paroles: "paroles/un-chant-seleve.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -735,6 +816,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/je-mabandonne-a-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -744,6 +826,7 @@ const chants = [
     annee: "2018",
     langue: "Français",
     paroles: "paroles/cest-toi-le-soleil.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -753,6 +836,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/reveille-moi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -762,6 +846,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/juste-te-plaire.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -771,6 +856,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/me-voici.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -780,6 +866,7 @@ const chants = [
     annee: "2021",
     langue: "Anglais",
     paroles: "paroles/here-i-am.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -789,6 +876,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/je-travail-et-je-recolte.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -798,6 +886,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/merci-merci-enfants.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -807,6 +896,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/donne-moi-la-foi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -816,6 +906,7 @@ const chants = [
     annee: "2001",
     langue: "Français",
     paroles: "paroles/jai-faim-de-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -825,6 +916,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/pas-comme-les-autres.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -834,6 +926,7 @@ const chants = [
     annee: "2025",
     langue: "Bassa",
     paroles: "paroles/me-beges-we.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -843,6 +936,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/attires-moi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -852,6 +946,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/souffle-sur-nous.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -861,6 +956,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/esprit-viens.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -870,6 +966,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/je-domine.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -879,6 +976,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/seigneur-de-gloire.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -888,6 +986,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/ouvre-moi-la-porte.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -897,6 +996,7 @@ const chants = [
     annee: "2021",
     langue: "Anglais",
     paroles: "paroles/holy-jesus.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -906,6 +1006,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/les-fruits-de-lesprit-enfants.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -915,6 +1016,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/arroses.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -924,6 +1026,7 @@ const chants = [
     annee: "2020",
     langue: "Français",
     paroles: "paroles/touche-moi-seigneur.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -933,6 +1036,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/pardonnes.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -942,6 +1046,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/je-suis-a-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -951,6 +1056,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/ouvre-les-yeux-de-mon-coeur.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -960,6 +1066,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/il-y-a-un-nom.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -969,6 +1076,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/alleloua.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -978,6 +1086,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/tu-regnes.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -987,6 +1096,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/qui-ne-te-craindrait.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -996,6 +1106,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/coule-en-moi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1005,6 +1116,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/eleves-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1014,6 +1126,7 @@ const chants = [
     annee: "2021",
     langue: "Anglais",
     paroles: "paroles/you-are-my-god.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1023,6 +1136,7 @@ const chants = [
     annee: "2021",
     langue: "Anglais",
     paroles: "paroles/your-name-is-alpha.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1032,6 +1146,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/marches-avec-moi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1041,6 +1156,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/purifie-moi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1050,6 +1166,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/je-veux-etre-saint.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1059,6 +1176,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/jesus.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1068,6 +1186,7 @@ const chants = [
     annee: "2021",
     langue: "Bassa",
     paroles: "paroles/mut-nupe-a-tabe-ki-we.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1077,6 +1196,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/sois-beni.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1086,6 +1206,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/laisse-moi-entrer-dans-tes-parvis.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1095,6 +1216,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/victory-belong-to-jesus.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1104,6 +1226,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/je-te-fais-confiance.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1113,6 +1236,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/emmanuel.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1122,6 +1246,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/tiens-moi-par-la-main.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1131,6 +1256,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/tout-va-bien.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1140,6 +1266,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/tu-es-souverain.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1149,6 +1276,7 @@ const chants = [
     annee: "2021",
     langue: "Français",
     paroles: "paroles/gloire-a-lagneau-de-dieu.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1158,6 +1286,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/recois-lhonneur.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1167,6 +1296,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/dis-juste-un-mot.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1176,6 +1306,7 @@ const chants = [
     annee: "2022",
     langue: "Anglais",
     paroles: "paroles/oh-lord.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1185,6 +1316,7 @@ const chants = [
     annee: "2022",
     langue: "Anglais",
     paroles: "paroles/im-waiting-for-you.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1194,6 +1326,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/tu-as-promis.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1203,6 +1336,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/je-me-prosterne.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1212,6 +1346,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/juste-en-peu-de-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1221,6 +1356,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/plus-de-toi-2.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1230,6 +1366,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/lamour-de-dieu.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1239,6 +1376,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/magnifique-en-saintete.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1248,6 +1386,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/adonai-sois-magnifie.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1257,6 +1396,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/abba.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1266,6 +1406,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/yeshuah-messiah.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1275,6 +1416,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/hosanna-eh.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1284,6 +1426,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/recois-mon-adoration.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1293,6 +1436,7 @@ const chants = [
     annee: "2022",
     langue: "Bassa",
     paroles: "paroles/yesu.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1302,6 +1446,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/je-combats-dans-la-victoire.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1311,6 +1456,7 @@ const chants = [
     annee: "2024",
     langue: "Anglais",
     paroles: "paroles/come-and-take-your-place.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1320,6 +1466,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/seul-dieu-me-suffit.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1329,6 +1476,7 @@ const chants = [
     annee: "2004",
     langue: "Français",
     paroles: "paroles/fidele.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1338,6 +1486,7 @@ const chants = [
     annee: "2019",
     langue: "Français",
     paroles: "paroles/ta-parole.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1347,6 +1496,7 @@ const chants = [
     annee: "2021",
     langue: "Anglais",
     paroles: "paroles/i-worship-you.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1356,6 +1506,7 @@ const chants = [
     annee: "2022",
     langue: "Bassa",
     paroles: "paroles/lolombi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1365,6 +1516,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/ne-me-laisse-pas-seule.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1374,6 +1526,7 @@ const chants = [
     annee: "2022",
     langue: "Bassa",
     paroles: "paroles/liwanda.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1383,6 +1536,7 @@ const chants = [
     annee: "2022",
     langue: "Bassa",
     paroles: "paroles/yeshua.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1392,6 +1546,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/jehovah.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1401,6 +1556,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/je-taime.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1410,6 +1566,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/le-sang-de-christ.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1419,6 +1576,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/je-te-remets-tout.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1428,6 +1586,7 @@ const chants = [
     annee: "2022",
     langue: "Français",
     paroles: "paroles/touches-moi-encore.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1437,6 +1596,7 @@ const chants = [
     annee: "1998",
     langue: "Français",
     paroles: "paroles/viens-a-jesus.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1446,6 +1606,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/saint-esprit-descends.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1455,6 +1616,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/ton-onction-dans-ma-vie.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1464,6 +1626,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/jesus-est-bon.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1473,6 +1636,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/mon-coeur-t-attends.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1482,6 +1646,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/a-lagneau-de-dieu-soit-toute-la-gloire.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1491,6 +1656,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/yaweh-recois-toute-la-gloire.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1500,6 +1666,7 @@ const chants = [
     annee: "2023",
     langue: "Anglais",
     paroles: "paroles/king-of-glory.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1509,6 +1676,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/le-meilleur-des-papas.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1518,6 +1686,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/jesus-ne-connait-pas-l-impossible.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1527,6 +1696,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/jesus-est-vivant.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1536,6 +1706,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/hosanna.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1545,6 +1716,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/tu-es-le-dieu-grand.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1554,6 +1726,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/il-est-assis-sur-son-trone.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1563,6 +1736,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/rien-n-est-impossible-à-dieu.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1572,6 +1746,7 @@ const chants = [
     annee: "2023",
     langue: "Anglais",
     paroles: "paroles/make-me-to-upgrade.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1581,6 +1756,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/j-aime-ta-presence2.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1590,6 +1766,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/il-est-la.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1599,6 +1776,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/prends-ta-place.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1608,6 +1786,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/quand-jesus-est-là.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1617,6 +1796,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/you-are-my-everything.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1626,6 +1806,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/il-le-fera.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1635,6 +1816,7 @@ const chants = [
     annee: "2023",
     langue: "Français",
     paroles: "paroles/tu-es-sans-pareil.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1644,6 +1826,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/tu-es-fidele.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1653,6 +1836,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/recentres-moi-sur-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1662,6 +1846,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/jesus-jesus.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1671,6 +1856,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/remplis-moi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1680,6 +1866,7 @@ const chants = [
     annee: "2024",
     langue: "Anglais",
     paroles: "paroles/the-blood-of-jesus.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1689,6 +1876,7 @@ const chants = [
     annee: "2024",
     langue: "Anglais",
     paroles: "paroles/miracle-god.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1698,6 +1886,7 @@ const chants = [
     annee: "2024",
     langue: "Anglais",
     paroles: "paroles/the-rock-of-my-life.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1707,6 +1896,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/car-tu-es-le-meilleur.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1716,6 +1906,7 @@ const chants = [
     annee: "2024",
     langue: "Anglais",
     paroles: "paroles/i-trust-in-you.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1725,6 +1916,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/je-compte-sur-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1734,6 +1926,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/aucun-autre-nom.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1743,6 +1936,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/a-l-agneau.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1752,6 +1946,7 @@ const chants = [
     annee: "2025",
     langue: "Anglais",
     paroles: "paroles/send-your-fire.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1761,6 +1956,7 @@ const chants = [
     annee: "2024",
     langue: "Français",
     paroles: "paroles/digne-de-louange.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1770,6 +1966,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/mon-secours.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1779,6 +1976,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/c-est-bon-pour-moi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1788,6 +1986,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/nous-avons-la-victoire.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1797,6 +1996,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/ton-sanctuaire.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1806,6 +2006,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/je-te-remercie.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1815,6 +2016,7 @@ const chants = [
     annee: "2025",
     langue: "Anglais",
     paroles: "paroles/deserve-the-glory.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1824,6 +2026,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/comme-tu-es-grand.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1833,6 +2036,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/ta-volonté.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1842,6 +2046,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/hozanna.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1851,6 +2056,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/saint-saint.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1860,6 +2066,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/elele.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1869,6 +2076,7 @@ const chants = [
     annee: "2025",
     langue: "Anglais",
     paroles: "paroles/your-name-is-powerful.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1878,6 +2086,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/son-règne-est-éternel.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1887,6 +2096,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/honneur_au_pere.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1896,6 +2106,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/esprit-saint-prends-place.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1905,6 +2116,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/a-genoux.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1914,6 +2126,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/sois-béni-pour-qui-tu-es.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1923,6 +2136,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/ce-que-je-veux-c-est-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1932,6 +2146,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/la-foi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1941,6 +2156,7 @@ const chants = [
     annee: "2025",
     langue: "Français",
     paroles: "paroles/alleloua-jesus-regne-a-jamais.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1950,6 +2166,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/emmanuel-est-la.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1959,6 +2176,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/le-nom-de-jesus.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1968,6 +2186,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/le-plus-beau-des-noms.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1977,6 +2196,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/moi-je-crois.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1986,6 +2206,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/je-veux-rester-avec-toi.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -1995,6 +2216,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/ta-presence-est-savoureuse.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -2004,6 +2226,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/tu-nas-pas-ton-pareil.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -2013,6 +2236,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/je-me-livre.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -2022,6 +2246,7 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/a-tes-pieds-seigneur.txt",
+    tonalité: "",
     audio: ""
   },
   {
@@ -2031,6 +2256,37 @@ const chants = [
     annee: "2026",
     langue: "Français",
     paroles: "paroles/elohim.txt",
+    tonalité: "",
+    audio: ""
+  },
+  {
+    id: 227,
+    titre: "Mon meilleur ami",
+    auteur: "Benny Emmanuelle",
+    annee: "2026",
+    langue: "Français",
+    paroles: "paroles/mon-meilleur-ami.txt",
+    tonalité: "",
+    audio: ""
+  },
+  {
+    id: 228,
+    titre: "Amen",
+    auteur: "Benny Emmanuelle",
+    annee: "2026",
+    langue: "Anglais",
+    paroles: "paroles/amen.txt",
+    tonalité: "",
+    audio: ""
+  },
+  {
+    id: 229,
+    titre: "Fallen in love",
+    auteur: "Benny Emmanuelle",
+    annee: "2026",
+    langue: "Anglais",
+    paroles: "paroles/fallen-in-love.txt",
+    tonalité: "",
     audio: ""
   }
 ];

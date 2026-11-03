@@ -173,6 +173,7 @@
         ${detailMeta("Auteur", song.auteur || "Non renseigné")}
         ${detailMeta("Année", song.annee || "Non renseignée")}
         ${detailMeta("Langue", song.langue || "Non renseignée")}
+        ${detailMeta("Tonalité", song.tonalité || "Non renseignée")}
       </dl>
       <section class="mt-7">
         <h3 class="text-xl font-black text-slate-950">Paroles</h3>
